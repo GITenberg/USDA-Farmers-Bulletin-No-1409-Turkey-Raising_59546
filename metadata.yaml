@@ -1,5 +1,8 @@
 _repo: USDA-Farmers-Bulletin-No-1409-Turkey-Raising_59546
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59546-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Marsden, Stanley J.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50503'
     url: http://www.gutenberg.org/2009/agents/50503
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59546#USDA-Farmers-Bulletin-No-1409-Turkey-Raising
 gutenberg_issued: '2019-05-19'
 gutenberg_type: Text
 identifiers:
