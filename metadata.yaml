@@ -1,0 +1,23 @@
+_repo: USDA-Farmers-Bulletin-No-1409-Turkey-Raising_59546
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Marsden, Stanley J.
+    gutenberg_agent_id: '50502'
+    url: http://www.gutenberg.org/2009/agents/50502
+  - agent_name: Lee, Alfred R.
+    gutenberg_agent_id: '50503'
+    url: http://www.gutenberg.org/2009/agents/50503
+description: ''
+gutenberg_issued: '2019-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'USDA Farmers'' Bulletin No. 1409: Turkey Raising'
+url: http://www.gutenberg.org/ebooks/59546
