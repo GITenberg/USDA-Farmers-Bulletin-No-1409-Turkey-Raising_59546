@@ -1,0 +1,2676 @@
+The Project Gutenberg EBook of USDA Farmers' Bulletin No. 1409: Turkey
+Raising, by Stanley J. Marsden and Alfred R. Lee
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: USDA Farmers' Bulletin No. 1409: Turkey Raising
+
+Author: Stanley J. Marsden
+        Alfred R. Lee
+
+Release Date: May 19, 2019 [EBook #59546]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK USDA FARMERS' BULLETIN NO. 1409 ***
+
+
+
+
+Produced by Tom Cosmas compiled from images made available
+by The Internet Archive.
+
+
+
+
+
+
+
+
+
+
+Transcriber Note
+
+Text emphasis denoted as _Italics_ and =Bold=. Whole numbers and
+fractional parts denoted as 12-3/4.
+
+
+  +--------------------------------------------------------------------+
+  |                                                                    |
+  |                       U. S. DEPARTMENT OF                          |
+  |                            AGRICULTURE                             |
+  |                                                                    |
+  |                    FARMERS' BULLETIN No. 1409                      |
+  +--------------------------------------------------------------------+
+  |                                                                    |
+  |                                                                    |
+  |                          TURKEY RAISING                            |
+  |                                                                    |
+  |                                                                    |
+  |                          [Illustration]                            |
+  |                                                                    |
+  |                                                                    |
+  +--------------------------------------------------------------------+
+
+Turkey raising is usually carried on as a side line on general farms,
+though in some parts of the United States it constitutes the chief source
+of revenue from farming.
+
+The number of turkeys in this country decreased for a time after the 1890
+census, but during recent years the industry has been growing, largely
+because of improved methods of controlling turkey diseases and better
+methods of management.
+
+This bulletin has been prepared primarily to inform those interested
+in turkey raising on modern methods of management. Most of the
+recommendations are adaptable to both small and large scale production.
+
+
+  Washington, D. C.                    Issued April 1924
+                                       Slightly revised February 1939
+
+
+
+
+                             TURKEY RAISING
+
+
+_By Stanley J. Marsden and Alfred R. Lee_, _associate poultry husbandmen,
+Animal Husbandry Division, Bureau of Animal Industry_[1]
+
+[1] This publication is a revision of former editions prepared by M. A.
+Jull, senior poultry husbandman, and A. R. Lee.
+
+
+
+
+CONTENTS
+
+
+                                              Page
+
+  The turkey industry of the United States       1
+
+  Varieties                                      2
+    The Bronze                                   3
+    The White Holland                            4
+    The Bourbon Red                              4
+    The Narragansett                             4
+    The Black                                    5
+    The Slate                                    6
+
+  Standard weights of turkeys                    6
+
+  Selecting breeding stock                       6
+
+  Managing breeding stock                        8
+    Breeding pens or enclosures                  8
+    Mating                                       9
+    Egg production                              10
+    Care of hatching eggs                       11
+    Feeding                                     12
+    Combating diseases and pests                14
+
+  Incubating turkey eggs                        16
+    Natural incubation                          17
+    Artificial incubation                       17
+
+  Raising poults                                18
+    Brooding                                    19
+    Sanitation                                  21
+    Litter                                      22
+    Early development                           23
+    Marking                                     23
+    Feeding growing turkeys                     23
+    Feed consumption and cost of growing        28
+
+  Equipment for raising turkeys                 30
+    Containers for feed and water               30
+    Houses and fences                           33
+    Protection against dogs                     36
+    Devices that prevent tail-feather picking   36
+
+  Range management of growing turkeys           37
+
+  Fattening turkeys for market                  38
+
+  Marketing turkeys                             39
+    When to market                              39
+    Selecting birds for market                  40
+    Withholding feed before slaughter           40
+    Killing and picking                         40
+    Cooling                                     42
+    Packing                                     43
+
+  Dressed-turkey grades                         43
+
+
+
+
+THE TURKEY INDUSTRY OF THE UNITED STATES
+
+
+TURKEY RAISING has long been an important enterprise in the United States
+because great quantities of turkey meat are required annually and its use
+throughout the year is becoming more popular. Producers should endeavor
+to make turkey raising more profitable by overcoming heavy losses from
+diseases that heretofore have been a serious handicap.
+
+The enterprise is very adaptable, extending to practically all parts of
+the United States. The more important areas of production are the Middle
+Western, Northwestern, and Southwestern States, where large numbers of
+small flocks are raised annually on farms and ranches and where there are
+also many large commercial flocks. The number of turkeys in this country
+began to decrease about 1890, but by 1910 interest in turkey raising
+revived, and in recent years the industry has been growing, largely
+because of increased knowledge of blackhead disease and its control.
+
+According to the census there were 3,688,000 turkeys on farms in the
+United States in 1910 and about the same number in 1920. The 1930 census
+showed 16,794,000 turkeys, but this was the number raised to market age
+instead of the number of breeding turkeys kept. This new census figure
+provides a much better measure of the industry's actual size. The 1930
+figure indicates a moderate increase between 1920 and 1930 in the number
+of breeding turkeys kept. The nine States leading in turkey production,
+as shown by the 1930 census, are Texas, North Dakota, Minnesota,
+California, Oklahoma, Oregon, Colorado, Virginia, and Idaho.
+
+Where conditions are suitable and proper methods of management are
+followed turkeys can be raised successfully with very simple equipment;
+therefore the capital outlay in the enterprise may be quite small. Except
+during the growing season managing the flock is fairly simple. Of course,
+constitutional vigor must be maintained in the breeding stock; the flock
+must be kept relatively free from disease; and the soil, especially where
+the poults are fed, must be kept sanitary. Moreover, turkeys, even when
+veil fed, will make good use of at least a limited range and in doing so
+will destroy many injurious insects, eat great quantities of succulent
+green feed, and pick up much waste grain, weed seeds, and other sources
+of nutriment. This fact reduces the cost of production and increases the
+profits.
+
+[Illustration: Figure 1.--Bronze turkey, male.]
+
+
+
+
+VARIETIES
+
+
+All domestic varieties of turkeys have descended from the North American
+wild stock, comprising the eastern wild turkey, which ranged over the
+eastern part of the United States from Maine to Florida; the Florida
+wild turkey, which ranged over southern Florida; the Rio Grande wild
+turkey, which ranged over southern Texas and northwestern Mexico; and
+the Mexican wild turkey, which ranged over Arizona, western New Mexico,
+southern Colorado, and Mexico. It is probable, however, that these four
+wild turkeys were of common origin and that most of our domesticated
+varieties, especially the Bronze, have descended from the Mexican wild
+turkey.
+
+Six standard varieties of domestic turkeys are recognized by the American
+Poultry Association, an organization having as its primary function the
+promotion of standard qualities in all breeds and varieties of poultry
+in North America. The association publishes the Standard of Perfection,
+which contains concise descriptions of breeds and varieties of poultry,
+with illustrations of the most important ones.
+
+The following is a brief description of each of the six varieties,
+namely, the Bronze, White Holland, Bourbon Red, Narragansett, Black, and
+Slate.
+
+[Illustration: Figure 2.--Bronze turkey, female.]
+
+
+THE BRONZE
+
+The Bronze, often called the Mammoth Bronze, is the heaviest and also
+the most popular variety. The male (fig. 1) is distinguished by (1) the
+rich, iridescent, red-green sheen of the plumage on the neck, wing bows,
+wing fronts, wing coverts, breast, front half of the back, and lower
+thighs; and (2) the lighter, brilliant, copper-colored bronzing of the
+rear half of the back, tail coverts, tail itself, and body. The bronzing
+in the tail, tail coverts, and body is bordered by a distinct narrow
+black band, which in turn is bordered by a wide edging of pure white.
+The rear portion of the back has the broad bronze bar with the narrow
+edging of black but does not have the white tips. The plumage of the
+female (fig. 2) is similar to that of the male, except for an edging of
+white on the black bars on the back, wing bows, wing coverts, breast, and
+body. This white edging is narrow in the front of the body and gradually
+widens toward the rear. Both sexes have the same color pattern in the
+large wing feathers and in the main tail feathers and coverts. The main
+tail feathers and coverts have brown penciling (narrow bars) on a dull
+black background; the large wing feathers are evenly barred with black
+and white, the bars of the secondaries becoming indistinct as the back
+is approached. Creaminess, yellow, or yellowish brown in the pure white
+edging of the main tail feathers and coverts of the Bronze indicates
+an admixture of wild-turkey blood and is a serious defect in the
+standardbred Bronze. Lack of the copper-colored bronzing or a tendency
+for it to be greenish is also a serious color defect.
+
+
+THE WHITE HOLLAND
+
+The White Holland (fig. 3) probably originated as a "sport" from the
+Bronze or the wild turkey. Its plumage should be pure white in color and
+free in all sections from black flecking or ticking. The shanks and toes
+in this variety should be pinkish white.
+
+
+THE BOURBON RED
+
+The Bourbon Red male (fig. 4) is of a rich, deep brownish-red color
+in all sections except the wings, tail, and breast. The primaries and
+secondaries of the wings are pure white, and the main tail feathers are
+pure white except for an indistinct bar of red crossing each feather near
+the end. The breast feathers are red with a very narrow edging of black.
+The color of the female is similar to that of the male, but there is a
+very narrow edging of white on the tips of the breast feathers. More than
+one-third of any other color except white showing in the large feathers
+of the wing or tail constitutes a standard disqualification in this
+variety. The rich reddish color, without some black, is rather difficult
+to obtain and this black ticking or flecking is a rather common fault. A
+faded red, approaching buff, is also undesirable.
+
+[Illustration: Figure 3.--White Holland turkey, male.]
+
+
+THE NARRAGANSETT
+
+The Narragansett (fig. 5) generally resembles the Bronze in color
+pattern, but has no iridescent red-green sheen and no bronzing. The
+Narragansett colors are metallic black with light steel-gray edging and
+barring bordered, in certain sections, by a narrow black band on the
+end of the feathers. The plumage, as a whole, has a dark background of
+metallic black with a broad, light steel-gray edging, showing more of
+the light color in this edging as the body is approached. In the male,
+the colors of the wing fronts, wing bows, and wing coverts are the
+reverse of the colors found elsewhere, being light steel gray, ending
+in a narrow band of black. The wing coverts form a broad silvery bar
+across the folded wings. The neck and saddle are black, ending in a broad
+steel-gray band. The back is rich metallic black, free from bronzing.
+The breast, body, and fluff are black, the feathers ending in a broad
+silvery-gray band edged with black. The large wing and tail feathers and
+the primary coverts are barred with black and white similarly to those of
+the Bronze, the barring of the upper secondaries becoming indistinct as
+the back is approached.
+
+The plumage of the female is similar to that of the male in this variety,
+except that an extra edging of silvery gray is added to the ends of the
+feathers on the back, wing bows, wing coverts, breast, and body. The
+light edging should be narrow toward the front of the bird and broader
+toward the rear. The female in general presents a lighter appearance than
+the male. There should be a rich metallic black but no bronze barring
+in either sex. The offspring of a Narragansett mating sometimes have a
+bronze color, but such birds should not be kept for breeders.
+
+[Illustration: Figure 4.--Bourbon Red turkey, male.]
+
+
+THE BLACK
+
+The Black (fig. 6), known in England as the Norfolk turkey, is lustrous
+greenish black in all sections of the plumage. Objectionable white
+tipping in the feathers of young turkeys of this variety often disappears
+after the first molt. Any variation from the solid black color should be
+carefully avoided in breeding this variety. The shanks and toes should be
+pink in mature birds and almost black in young birds.
+
+
+THE SLATE
+
+The Slate (fig. 7) has an ashy-blue or slate-colored plumage, sometimes
+dotted with tiny black spots, which are undesirable. Feathers of
+any other color, such as white, buff, or red, constitute a standard
+disqualification. This variety does not breed true to color, and many
+of the offspring have both solid white and solid black as well as
+black-and-white ticking and splashing. The shanks and toes should be pink.
+
+
+
+
+STANDARD WEIGHTS OF TURKEYS
+
+
+The standard weights of the different varieties of turkeys as given in
+the Standard of Perfection are given in table 1.
+
+
+
+Table 1.--Standard weights of turkeys at various ages
+
+  ---------------+-----------+----------+-----------+---------+----------
+                 |           | Yearling |           |         |
+                 | Adult     | cock (1  | Cockerel  | Hen     | Pullet
+     Variety     | cock (2   | year old | (less     | (1 year | (less
+                 | years old | and less | than 1    | old or  | than 1
+                 | or over)  | than 2)  | year old) | over)   | year old)
+  ---------------+-----------+----------+-----------+---------+----------
+                 | _Pounds_  | _Pounds_ | _Pounds_  |_Pounds_ | _Pounds_
+  Bronze         |    36     |    33    |    25     |   20    |    16
+  White Holland  |    33     |    30    |    23     |   18    |    14
+  Bourbon Red    |    33     |    30    |    23     |   18    |    14
+  Narragansett   |    33     |    30    |    23     |   18    |    14
+  Black          |    33     |    30    |    23     |   18    |    14
+  Slate          |    33     |    30    |    23     |   18    |    14
+  ---------------+-----------+----------+-----------+---------+----------
+
+[Illustration: Figure 5.--Narragansett turkey, female.]
+
+
+
+
+
+SELECTING BREEDING STOCK
+
+
+The breeding stock is the foundation of the turkey industry, and the
+greatest care must be used in selecting both male and female breeders.
+Failure in this respect has undoubtedly been one of the principal
+reasons why satisfactory results have not been obtained on many farms
+and commercial plants. One of the first steps in improving conditions,
+therefore, is more careful selection of the breeding stock.
+
+The most satisfactory time of the year to select breeding stock is in
+November or December, especially before large numbers of turkeys are
+sold for the Thanksgiving and Christmas markets. Selecting birds early
+in the season makes possible a choice from a larger number and, what is
+more important, saves the best-developed and most vigorous birds for
+breeding instead of marketing them. New blood may be introduced into the
+flock or a beginning with turkeys may be made by obtaining hatching eggs,
+day-old poults, or breeding stock, but the purchase of eggs or poults is
+recommended. New breeding stock should be treated for worms and lice and
+should be quarantined for 2 or 3 weeks to detect any disease.
+
+[Illustration: Figure 6.--Black turkey, male.]
+
+Turkeys are raised for meat rather than for egg production. The breeders,
+therefore, should have compact, meaty bodies. The breastbone should be
+straight, the back broad, especially at the shoulders, and the breadth
+carried well back toward the tail. The body should be deep, with the
+breast so broad, full, and well rounded that the breastbone does not
+protrude prominently. Other important points are full, bright eyes, a
+broad head, and stout legs set well apart and rather short. Above all
+else, the birds should be vigorous. When, pedigrees and performance
+records of the birds' ancestors are available, selection should be
+based on fertility, hatchability, livability, early maturity, and other
+desirable factors, as well as on the physical points mentioned above.
+
+It is wise to select or build up a flock of purebred turkeys. It costs
+no more to raise purebred stock than mongrels and the purebreds are
+usually heavier and command higher market prices. Also, if good standard
+qualities of shape and color are maintained, some of the birds can be
+sold for breeding purposes at increased prices.
+
+
+
+
+MANAGING BREEDING STOCK
+
+
+Results in turkey raising depend to a large extent on the kind of
+breeding stock used each year and the manner in which it is managed.
+
+
+BREEDING PENS OR ENCLOSURES
+
+Until a few years ago breeding flocks were ordinarily allowed free
+range throughout the breeding and laying season (fig. 8). This practice
+often gives unsatisfactory results because the nests cannot be found
+readily and therefore the eggs cannot be gathered daily. Many breeding
+flocks are now kept in good-sized breeding pens or enclosures with
+nests conveniently located inside or outside the roosting shed (fig.
+9). For a pen of 12 to 18 birds a yard of 10 to 15 square rods is large
+enough. Frequently an orchard is very satisfactory. A hog-proof fence
+about 6 feet high will confine the turkeys; they are not likely to fly
+over the fence, because they cannot rest on the top wire. Fences should
+be tightly stretched and should be dog-proof, because dogs and coyotes
+are very destructive in turkey flocks. Solid-top fences, gates, and
+buildings less than 9 feet high should be topped with strips of poultry
+fence 3 feet wide to prevent turkeys from perching on them. If turkey
+hens persist in flying over the fence the flight feathers of one wing
+may be cut, but the wing of a breeding male should never be clipped, as
+the clipping may interfere with mating.
+
+Sanitation in the breeding yards must not be neglected. Either the fences
+and shelters should be made portable and moved each year to clean ground,
+or double yards should be constructed for use only in the breeding
+season, during which time one yard is occupied for 2 successive weeks and
+then the other, which in the meantime has been kept free of all poultry.
+
+[Illustration: Figure 7.--Slate turkey, male.]
+
+If two or more breeding pens are maintained, they must be isolated from
+each other. This can be done with double fences, 12 feet or more apart,
+or with single fences built solid for about 3 feet above the ground, so
+that the turkeys cannot see those in other pens.
+
+
+MATING
+
+Best results in mating are obtained when from 10 to 15 females are mated
+to 1 male, although as many as 18 hens can be mated to 1 young tom under
+favorable conditions. As a rule good fertility will result when several
+toms are kept with a flock of hens. However, if the toms are quarrelsome
+and mating is seriously interfered with the males must be alternated, 1
+tom being allowed to run with the hens 1 day and another tom the next
+day. Surplus toms should be penned out of sight of the breeding birds.
+
+[Illustration: Figure 8.--Breeding flock of Bronze turkeys on
+free range.]
+
+The soundest breeding program is one of using yearlings and 2-year-old
+hens which have been selected as breeders alter they have passed through
+one full breeding season successfully. However, if pedigreeing can
+be done, it is practicable to use well-matured pullets selected from
+parents that lived through their first breeding season and showed good
+production, fertility, hatchability, and poult livability. The breeding
+males may be young or old but, in general, well-matured young toms give
+better results. Proved sires, of course, are valuable and can well be
+used so long as they will breed. Reserve breeding toms should always be
+kept, especially when older toms are used, as the latter are sometimes
+sterile. The spurs of a yearling or older tom should be trimmed smooth,
+as should the toe-nails of all breeding males, regardless of age, to
+avoid needless tearing of the backs of the females.
+
+All breeding hens and toms that are not to be used for another breeding
+season should be marketed about June 1. If older hens are used in
+breeding, it is advisable to replace 3-year-old females with young birds,
+since egg production decreases rapidly after that age. Immature stock
+should never be used but, as mentioned before, well-matured young toms
+and pullets make good breeders especially if trap nesting and pedigreeing
+can be carried on, thus enabling the breeder to cull properly and sell
+as market birds the offspring of all hens that die during their first
+laying season.
+
+It is not advisable for the average producer to inbreed turkeys, as this
+practice has been found to lower the vitality of the stock. When only one
+breeding pen or flock is kept, it is advisable to obtain new blood every
+season from a reliable outside source.
+
+
+EGG PRODUCTION
+
+The time of year at which turkeys naturally lay depends largely on the
+climate of the region in which they are raised, being earliest in the
+South. However, climate need not be permitted to hold back egg production
+as artificial light can be used to obtain early eggs, as with chickens.
+Soon after mating begins, the female looks for a nesting place, and
+about 10 days after the first mating she begins to lay. One nest should
+be provided for every 3 or 4 hens. The number of eggs produced per bird
+depends on the breeding of the stock as well as on management. Under
+ordinary circumstances in the Northern States, young turkey hens should
+average 35 to 40 eggs and yearling hens 25 to 30 eggs each during the
+normal breeding season if they are broken up whenever broodiness occurs.
+By normal breeding season is meant the time between the date the first
+egg is laid (late in the winter or early in the spring) and June 1. If
+artificial lights are used, starting about February 5, the breeders
+should average 50 to 55 eggs each, or an increase of about 15 eggs by
+June 1, due to the lighting. A few turkey raisers have used lights in
+December or January, thereby securing very early hatched turkeys and
+further increasing turkey-egg production.
+
+Turkeys are not extensively trap-nested, but the practice is carried
+on by producers who wish to pedigree the poults and carry on selective
+breeding. One trap nest is needed for each two hens. The hens should have
+free access to the trap nests before they start to lay, and they should
+be carefully watched to see that they do not lay their eggs anywhere
+except in the trap nests. Secluded places in the house or yard should
+be eliminated. A simple form of trap nest is illustrated in figure 9.
+The turkey enters at the front, through the trap door, which closes
+automatically when the turkey is inside. The door at the top of the coop
+is opened to release the bird from the nest.
+
+When incubators or chicken hens are used to hatch the eggs, the turkey
+hens may be broken of their broodiness so that they will continue laying.
+Breaking the hens of broodiness by confining them to a wire-floored
+coop is very desirable because it permits the hatching of a relatively
+large number of early turkeys and a larger number from each hen. The
+birds hatched no later than June are the ones that grow and mature most
+satisfactorily and therefore attain the best size for the Thanksgiving
+and Christmas markets. Early hatched birds should be marketed at
+Thanksgiving or before, and those of later hatches can be used to supply
+the Christmas and New Year demand. There is some demand for freshly
+dressed turkeys at all times of the year. To meet this demand turkeys
+may be hatched from eggs laid during summer and fall. By the use of
+artificial light and proper feeds, hatchable eggs can be produced in the
+winter and early in the spring.
+
+It is natural for turkey hens to seek secluded places to lay their
+eggs. Yards that have comparatively short vegetation and are free from
+bushes or other places of concealment are best, because such conditions
+discourage the birds from laying outside the nests provided for them. A
+lookout for hidden nests must be maintained, otherwise eggs may not be
+collected regularly and may be frozen, partly incubated, or destroyed by
+animals. Sometimes the hidden nests can be found by watching the turkey
+hens carefully as they make their way to them, but an easier and quicker
+method is to confine the hens early some morning soon after they come
+from the roosts and then let them out about 2 p. m.; the laying hens
+will make straight for their nests in order to lay the eggs they have
+been holding. Nests are easily made of boxes or barrels placed inside
+the shelter or outside in the yards. Some turkey growers prefer to build
+nesting batteries with nests about 12 by 24 inches.
+
+[Illustration: Figure 9.--Turkey trap nests. The dimensions of
+this nest are as follows: Width, 14 inches; depth, 24 inches; height in
+front, 19 inches; and height in hack, 45 Inches. The trap-nest fronts may
+be home-made, or commercial fronts may be used.]
+
+
+CARE OF HATCHING EGGS
+
+Hatchability can be seriously damaged by holding eggs at temperatures
+above 65° or below 35° F. It is most important to hold eggs in a room
+that can be kept below 65°, preferably between 50° and 60°. Eggs should
+be collected several times daily and held on their sides or on the small
+end. It is best to turn eggs gently once daily while they are being held
+for hatching, but this is probably not necessary unless they are to be
+kept longer than a week. For best results they should not be held longer
+than 10 days but if they are held at a suitable temperature and are
+turned once a day, fair hatchability will be retained for as long as 3
+weeks.
+
+
+FEEDING
+
+Feeding young breeding turkeys is a matter of supplying a growing ration
+in the fall and early in the winter, a laying ration late in the winter
+and in the spring, and a maintenance ration during the summer. Unless
+breeders are to be kept over for another year, they should be marketed,
+if possible, about June 1 in order to reduce feed costs and to aid in
+preventing the spread of blackhead and other diseases that may affect
+adult turkeys during the summer. If breeders are to be held over for
+the next season or until fall and if a good summer and fall range is
+available well away from the growing stock, the breeders are best carried
+through the summer on a daily feeding of whole grain such as a mixture of
+equal parts of corn, oats, and wheat. This mixture should be fed at the
+rate of one-fifth pound per hen daily as a supplement to feed obtained
+from the range. The toms, if ranged with the hens, should have access to
+grain in a feeder too high for the hens to reach. A better method is to
+pen the toms in a separate range lot and give them each one-half pound of
+grain daily in troughs.
+
+Breeding stock so managed during the summer respond economically to a
+fattening diet offered in the fall. Beginning about 4 weeks before they
+are to be marketed, usually early in October, the birds may be offered
+all they will eat daily of the grain mixture. Within 4 weeks they will
+acquire a fine finish and make a gain in weight of 2-1/2 pounds or more
+per hen and 4 pounds or more per tom. About 5-3/4 pounds of grain per
+pound of gain is required for the 4-week fattening period. A little
+better finish is acquired in 6 weeks; but the grade is not improved, and
+the gains are more expensive. Breeding stock that are to be kept over
+should be held in the range lots as long as possible and should also be
+fed liberally in the fall, in order to put them in good condition for the
+winter.
+
+Later in the fall and through the winter the rations for breeders,
+especially young breeders, may be the same as the growing rations
+normally fed to young stock. Scratch grain and a simple mash, such as
+that suggested for growing poults, make a good feed for carrying the
+breeders through the winter, since they meet the demands of the birds for
+continued growth or for maintenance. If the climate is such that green
+feed and sunshine are not available, as in the Northern States, add 5
+percent of alfalfa-leaf meal and 1 percent of cod-liver oil to the mash.
+The birds should have all the mash and scratch they will eat during the
+fall and winter. Breeders will not become too fat if fed in accordance
+with this method. They will be fat, but this is desirable if heavy egg
+production is expected.
+
+For the production of large numbers of hatchable eggs turkeys require
+a ration containing the various nutrients and vitamins. Good results
+can be obtained with a simple laying ration, such as laying mixture No.
+1, if the birds get an abundance of fresh green feed and have range.
+When ground oats or ground barley is included in any mixture it should
+be finely ground. Alfalfa leaf meal should be bright green in color.
+The cod-liver oil should be a standard good-quality product, or the
+equivalent in fortified cod-liver oil may be used if thoroughly mixed.
+
+_Laying Mixture No. 1_
+
+       MASH                      _Parts by |       SCRATCH
+                                   weight_ |
+                                           |
+  Yellow corn or barley (ground)        20 | Mixture of equal parts of
+  Wheat middlings or ground wheat       15 |  yellow corn, wheat, and
+  Oats or barley (ground)               20 |  heavy oats. (Grain sorghum
+  Meat scrap (50- to 55-percent            |  may be used in place of the
+    protein)                            10 |  corn.)
+  Fish meal (60- to 70-percent protein) 10 |
+  Wheat bran                            12 |
+  Ground oystershell or limestone        7 |
+  Dried milk                             5 |
+  Salt (fine, sifted)                    1 |
+                                       --- |
+       Total                           100 |
+
+Laying mash should be kept before the birds at all times beginning
+about a month before eggs are expected. Scratch mixture should be fed
+in troughs, at the rate of one-fifth of a pound per day per bird, so
+that the consumption during laying will be about equal parts of the mash
+and scratch. The birds must have access to growing green feed, direct
+sunshine, and water.
+
+If the birds cannot obtain fresh succulent green feed and direct sunshine
+in abundance, as in the case of those kept in confinement or in cold
+climates, the ration must be more inclusive. Such a ration may be
+compounded as follows:
+
+_Laying Mixture No. 2_
+
+       MASH                      _Parts by |       SCRATCH     _Parts by
+                                   weight_ |                     weight_
+                                           |
+  Yellow corn or barley (ground)       26  | Yellow corn or grain
+  Wheat middlings or ground wheat      20  |  sorghum               40
+  Wheat bran                           12  | Heavy oats             37-1/2
+  Alfalfa leaf meal                    10  | Wheat                  20
+  Meat scrap (50- to 55-percent            | Cod-liver oil           2-1/2
+    protein)                            8  |                       -------
+  Dried milk                            8  |     Total             100
+  Fish meal (60- to 70-percent             |
+    protein)                            8  |
+  Ground oystershell or limestone       7  |
+  Salt (fine, sifted)                   1  |
+                                      ---  |
+       Total                          100  |
+
+As with the simpler ration, the mash should be kept before the birds at
+all times, and the scratch can be hand-fed in troughs at the rate of
+one-fifth of a pound per bird per day. Clean water should be provided
+at all times. The same ingredients can be mixed and fed as an all-mash
+ration with good results. The all-mash formula is as follows:
+
+_Laying Mixture No. 3 (All-mash feed)_
+
+                                 _Parts by |                   _Parts by
+                                   weight_ |                     weight_
+                                           |
+  Yellow corn (coarsely ground)        30  | Dried milk              5
+  Oats (finely ground)                 20  | Fish meal (60- to
+  Wheat middlings (standard or brown)  21  |  70-percent protein)    3
+  Wheat bran                            6  | Ground oystershell or
+  Alfalfa leaf meal                     5  |  limestone              4
+  Meat scrap (50- to 55-percent            | Cod-liver oil           1-1/4
+   protein)                             4  | Salt (fine, sifted)       3/4
+                                           |                       -------
+                                           |    Total              100
+
+This all-mash mixture is kept before the breeders at all times. Just
+enough to carry the birds through each day should be given. In this way
+its freshness is assured, an important consideration in all-mash feeding.
+
+If desired, the oyster shell or limestone may be fed separately in
+hoppers, but mixing it in the mash saves labor and prevents excessive
+consumption. Gravel or granite grit should be provided to furnish
+grinding material. Clean water, placed in contamination-proof vessels,
+should be provided at all times. Alfalfa hay probably cannot be depended
+upon to supply adequate amounts of green-feed substitute for hatching-egg
+production. Only by fresh green feed or green-feed substitutes and fish
+oils can those requirements be met. The oil should be freshly mixed in
+the feed every week or two.
+
+All feed should be fed in feeders, never on the ground or in the litter.
+Feeders should be constructed so as to prevent waste and contamination
+with droppings. Turkey hens consume a little less than one-half pound
+of mash and scratch grain per day when practically all of their feed is
+furnished. Toms consume about 0.7 pound daily; eating mostly scratch
+grains.
+
+
+COMBATING DISEASES AND PESTS
+
+Turkey raisers, to be permanently successful, must follow some system
+of sanitation. Many growers have prevented disease and the attacks of
+parasites in their flocks by providing range on clean soil; that is,
+soil on which no poultry manure has been spread; feeding their birds
+from feeders that cannot be contaminated by droppings; and keeping the
+quarters sanitary at all times. _Separation of the turkeys from chickens
+and other poultry at all times is essential._
+
+Diseases and parasites of turkeys are discussed in detail in Farmers'
+Bulletin 1652, Diseases and Parasites of Poultry. Coccidiosis often
+causes heavy losses in young turkeys. It is best combated by carefully
+cleaning the brooder house and changing the litter once a week during the
+brooding period, keeping the litter dry, and using wire-covered feeding
+platforms. Turkeys are subject also to the attacks of various species
+of worms, but treatment for worms should not be undertaken until the
+presence of worms has been determined by examining the droppings or by
+post-mortem examination.
+
+BLACKHEAD
+
+Although other infectious diseases sometimes affect turkeys, blackhead
+is by far the most destructive ailment. It is caused by one of the
+Protozoa and is primarily a disease of the caeca (the blind pouches
+of the intestines) and the liver, but the fact that the head of the
+affected bird often becomes discolored has given the disease its common
+name, blackhead. It attacks turkeys most frequently, but chicks are
+often affected by it without showing symptoms; thus the chickens carry
+and spread the infection to turkeys when allowed to range with them. A
+combination of spotted liver and ulcerated caeca indicates that the birds
+have blackhead infection.
+
+Although blackhead affects adult turkeys, it occurs principally among
+poults between the ages of 6 weeks and 6 months. It is found to a greater
+or lesser extent throughout the United States. The turkeys affected by
+blackhead, like all birds having infectious diseases, should be removed
+immediately from the flock to prevent the spread of the disease. The best
+procedure is to kill the sick birds and burn or bury the bodies, as no
+treatment has been found satisfactory. Move the flock to clean ground,
+if possible; but if this cannot be done, clean out and disinfect the
+roosting place, plow the ground in the yards, and install a system of
+yard sanitation. Keep chickens and all other poultry away from turkey
+yards at all times in order to prevent infection from this source. The
+organisms which cause the disease may be carried by flies, blown with
+dust, conveyed in contaminated soil on the feet of the caretaker, or
+spread for considerable distances in other ways.
+
+Several measures for preventing blackhead are practiced, the chief of
+which are: (1) Obtaining eggs or stock from flocks known to be healthy;
+(2) quarantining and worming all new stock; (3) cleaning and changing
+the litter at least weekly during the brooding period; (4) keeping both
+young and mature turkeys on clean ground at a considerable distance from
+chickens; (5) excluding, so far as possible, pigeons, sparrows, and
+persons from the turkey houses and yards; (6) frequently cleaning and
+occasionally disinfecting growing houses, feed troughs, and all other
+equipment; (7) feeding only in clean feeders, never on the ground; (8)
+immediately killing and deeply burying or completely burning all diseased
+birds; and (9) eliminating all stagnant water pools where the turkeys
+range. Clean range, clean quarters, clean feed, and clean water are most
+important.
+
+LICE AND MITES
+
+Lice may cause high mortality among young poults, those badly infested
+gradually becoming weaker until they die. Head lice are the most
+troublesome and are found close to the skin near the top of the head,
+above and in front of the eyes, and under the throat. Applying an insect
+powder, preferably sodium fluoride, when the hen is set, is an easy
+method of preventing lice from getting a start among poults. Apply the
+sodium fluoride among the leathers, working it well down next to the
+skin, 1 pinch on the head, 1 on the neck, 2 on the back, 1 on the breast,
+1 below the vent, 1 at the base of the tail, 1 on each thigh, and 1
+scattered on the underside of each wing when spread. If this treatment is
+not applied, hen-hatched poults are almost certain to have lice.
+
+If the hen has been treated in this manner before being set and the
+poults are not exposed to infested stock or premises, they will remain
+free from lice indefinitely. It is well, however, to examine the poults
+occasionally and, if lice are found, to apply sodium fluoride sparingly.
+It should not be applied until the poults are at least a week old, and
+then only two very small pinches should be used. Distribute one of these
+on the neck, the top of the head, and the throat, and the other on the
+back and below the vent. After the poults are old enough to roost,
+control lice by applying nicotine sulphate solution in a thin line on
+the top surface of the roosts. Repeat as often as necessary to keep down
+the lice and be sure that each bird is exposed to the treatment. Sodium
+fluoride applied as directed for delousing setting hens or as a dip will
+completely eliminate all species of lice from mature stock.
+
+The dipping method consists in immersing mature fowls in a large tub
+of solution made by mixing 1 ounce or sodium fluoride to each gallon
+of tepid water. Immerse the birds for only a few seconds, raising the
+feathers at the same time to allow the dip to penetrate to the skin. Dip
+the birds on a warm day, preferably in the morning, so as to give them
+time to dry before night.
+
+Destroy red mites in the roosting quarters by painting the under side
+of the roosts and the roost supports with anthracene oil, crude oil,
+crank-case oil, or any coal-tar disinfectant. Make the application light
+but thorough, and do it preferably in the morning.
+
+The fowl tick or blue bug is one of the worst pests of turkeys in the
+Southwest. It can be controlled by the methods advised for controlling
+red mites.
+
+PROTECTION FROM COLD, DAMPNESS, AND ENEMIES
+
+Protection from adverse weather conditions and enemies is required
+if turkeys are to be raised successfully. An open-front shed with a
+reasonably tight roof and dry floor, so arranged that the north, west,
+and east sides can be closed against storms, will give ample protection
+for full-grown turkeys. Boosts may be made from good-sized poles or 2
+by 4's nailed flat to supports which should be slightly higher at the
+rear than at the front, where they should be about 2-1/2 feet above the
+floor. The space between the roosts should be about 2 feet and the space
+underneath enclosed with poultry wire. In the southern part of the United
+States there is little need for well-built turkey houses, but during
+damp, cold, or stormy weather the turkeys should have protection of
+some kind. They should not be exposed to dampness, but they can stand a
+considerable amount of dry cold.
+
+In many localities protection from dogs must be provided in some way.
+High roosts or well-built shelters provide this at night. Keeping the
+birds confined to high roosts or in dog-proof shelters at night and
+during the early morning hours gives a good protection. An attendant or
+a good watchdog is needed to protect the turkeys when they are off their
+roosts or out of their shelters.
+
+
+
+
+INCUBATING TURKEY EGGS
+
+
+The vigor of the breeding stock, the manner in which it has been fed and
+managed, and the care given the eggs will determine to a high degree
+the hatchability of the eggs. An important measure of success in turkey
+raising is the number of fully matured turkeys raised in proportion to
+the number of hens in the breeding flock. An average of 25 mature birds
+raised per hen is considered very good in well-managed turkey flocks,
+whereas in most general-farm flocks 10 to 15 mature birds per hen would
+be a good average.
+
+The period of incubation of turkey eggs is 28 days, and the method
+is much the same as that used with chicken eggs. Turkey eggs can be
+successfully hatched by turkey hens or chicken hens, or in incubators.
+Hatching in incubators is best and is coming into more general use,
+especially on farms and ranches where turkeys are raised in large
+numbers. Turkeys hatched and reared by hens, especially chicken hens, are
+likely to contract disease and become infested with parasites at an early
+age. Sitting turkey hens can cover from 15 to 18 eggs; chicken hens, from
+7 to 10 eggs.
+
+
+NATURAL INCUBATION
+
+Hatching the eggs under turkey hens is widely practiced and is often
+the most practical method. When the turkey hen becomes broody and has
+remained consistently on the nest for 2 or 3 days, she should be given
+her eggs. If several turkey hens are sitting at the same time, care
+should be taken that each gets back into her own nest. Nests are most
+conveniently arranged on the ground, in boxes about 2 feet square or in
+barrels. If rats are a menace, the nest should furnish protection against
+them and should always be made proof against larger animals so that the
+turkey hens will not be disturbed or the eggs destroyed. The nests should
+be flat and shallow, as deep nests may result in crushed eggs or crushed
+baby poults. Nests with damp sod bottoms and only a little straw to
+keep the eggs from rolling into the corners are generally satisfactory.
+Nesting batteries in which each hen is provided with a small individual
+run so that she can get off and on the nest at will are very good. With
+this method the only care necessary is to see that feed and water are
+always before the hens and that each one remains broody. If individual
+runs are not provided, the hens should be taken off daily, allowed to
+exercise and eat, and then returned to their own nests. Plenty of water
+to drink and clean, wholesome grain feed, such as a mixture of wheat,
+oats, and corn, should be provided, and fresh green feed or good alfalfa
+hay should be made available.
+
+Turkey or chicken hens, before being set on turkey eggs, should be
+treated with sodium fluoride, as previously directed.
+
+
+ARTIFICIAL INCUBATION
+
+Correct incubator temperatures are much the same for turkey eggs as for
+chicken eggs, but the greater size of the turkey eggs may necessitate
+some adjustment of the apparatus used in measuring the temperature.
+This is true in nearly all kinds of incubators except those of the
+forced-draft type. The relative position of the thermometer in the
+egg chamber is important in the accuracy with which it records the
+temperature. For hatching turkey eggs the proper position of the
+thermometer is usually indicated in the directions that are furnished
+by the manufacturer of the incubator. As a general rule, with the
+bottom of the bulb 1-7/8 inches above the egg tray, the thermometer
+should read 100.5° F. for the first week, 101.5° the second, 102.5° the
+third, and 103° the last week. Forced-draft incubators are usually run
+at about 99.5°. Temperature can best be regulated, however, by using
+the thermometer that goes with the machine, placing it in the position
+recommended by the manufacturer, and then following the manufacturer's
+instructions for hatching turkey eggs, making sure that the egg trays do
+not sag.
+
+Turkey eggs lose about 3.5 percent less moisture during incubation than
+do chicken eggs, notwithstanding the fact that turkey eggs require about
+7 days longer to hatch. Excellent hatches have been obtained when the
+loss of moisture based on the weight of the eggs just before they were
+set, ranged within the following limits: After 6 days of incubation, 2 to
+8 percent; after 12 days of incubation. 4.1 to 6 percent; after 18 days
+of incubation, 6.2 to 9 percent; and after 24 days of incubation, 9 to 12
+percent.
+
+On this basis, a dozen turkey eggs of normal size should lose about 1
+ounce for every 6 days of incubation. The air cells of turkey eggs are
+smaller in proportion to the size of the eggs than are those of chicken
+eggs because normal evaporation in turkey eggs during incubation is
+considerably less than that in chicken eggs. When more moisture is needed
+in the incubator it can be provided by putting in water pans, or by
+placing burlap wicks in the pans. When less moisture is needed the water
+pans may be removed or the ventilation increased.
+
+As a rule the eggs should be turned at least 3 and preferably 4 to 6
+times daily. Four times daily, every 6 hours, day and night, is an
+excellent plan. They should be tested preferably on the eighth or ninth
+and again on the twentieth to twenty-second days, and all infertile eggs
+and those having dead germs should be removed. Cooling the eggs once or
+twice a day until they feel slightly cool to the face may be of value
+in small incubators. Turning and cooling should be discontinued about
+the twenty-third day, and the incubator door should be darkened and kept
+closed until hatching is completed. The poults may then be left in the
+incubators for about 24 hours or else put in the brooder and fed as soon
+as hatching is completed and the poults thoroughly dried off. Poults
+held in the incubator should be kept at about 95° F. and should have a
+rough surface such as 1/4-inch-mesh hardware cloth to stand on. Keeping
+the incubator dark helps to keep the poults quiet and tends to prevent
+spraddle legs. There is no good reason for withholding feed longer than
+24 hours. If feed is withheld for a much longer period when the poults
+are in the brooder, they may eat the litter. Therefore, poults should be
+fed when they are put in the brooder house.
+
+Shipping day-old poults in specially built strawboard boxes has been
+found to be satisfactory. The container is larger than that ordinarily
+used for baby chicks, 60 poults commonly being placed in each box.
+
+
+
+
+RAISING POULTS
+
+
+There are few turkey-raising problems so important as brooding and
+rearing the poults, because the greatest losses in turkey raising usually
+occur in the first few weeks of the birds' lives. Heavy mortality among
+the poults may indicate that the breeding stock used was low in vitality
+or was poorly managed, but it more often indicates poor feeding or
+management of the poults. The importance of keeping both the poults
+and the breeding turkeys on ground free from infection and away from
+chickens cannot be overemphasized. Improper brooding methods cause great
+losses, because turkey poults are very susceptible to cold, dampness,
+overcrowding, overheating, unsuitable feeds, and unsuitable litter, and
+they succumb readily to attacks of diseases and parasites.
+
+
+BROODING
+
+The poults may be brooded naturally by turkey hens or artificially by
+brooders. Brooding by turkey hens provides a never-failing source of
+heat, allows the poults to be raised in small flocks, and permits taking
+advantage of free-range conditions. Its disadvantages are that the
+young turkeys may contract disease or become infected with parasites
+from the hens and they may wander too far and be killed by storms or
+predatory animals. Artificial brooding makes it easier to maintain proper
+sanitation, keeps down costs, puts the poults more directly under the
+control of the operator, and is more adaptable to large-scale production.
+
+NATURAL BROODING
+
+Brooding poults by turkey hens is not difficult, although several details
+should receive careful attention. As soon as the hatch is completed and
+the poults begin to run out from under the sitting hen, transfer the hen
+and her brood to a coop. A coop of simple design, such as the =A=-shaped
+type (fig. 10), large enough to accommodate a turkey hen comfortably,
+and well built to protect the brood from rains and natural enemies, is
+all that is required. It should be about 5 feet long, 3 feet wide, and 3
+feet high, with a raised, rat-proof floor. Provide good-sized screened
+openings for ventilation in hot weather. These openings should be so
+fixed that rain will not beat into the coop. Have a separate coop for
+each hen, and if there are several broods, place the coops some distance
+apart on well-drained soil where the grass is fairly short.
+
+[Illustration: Figure 10.--A well-built brood coop which can be
+used either for setting a turkey hen or for raising a brood of poults.]
+
+For the first day or so it is well to confine the poults in the coop
+with the mother hen. Then make a small yard, using boards or wire around
+the front of the coop, and allow the poults to run in and out at will.
+However, they should not be allowed to run in long, wet grass, and during
+heavy rains they should be confined to the coop. Move the coop and yard
+to fresh ground every few days, clean it once a week or more frequently,
+and disinfect it occasionally. When the poults are about a week old
+the mother hen may be allowed to roam with her brood, but care should
+be taken to see that the entire brood returns in the evening and is
+protected at night from predatory animals. Good results may be obtained
+by keeping the mother hens confined and allowing the poults to range, but
+the brood should be properly sheltered during rainstorms or damp weather,
+which are likely to cause high mortality. The poults may be kept with the
+mother hen for 3 months or more, but better results are usually obtained
+by moving them to a separate rearing field on clean ground when they are
+from 8 to 10 weeks old. If they have shelter and will roost, they are
+better off without the hens after that age. A turkey hen will raise up to
+20 poults successfully, but more than 20 can sometimes be placed with a
+hen in warm weather.
+
+ARTIFICIAL BROODING
+
+The practice of brooding poults artificially is becoming more popular and
+is usually more successful than brooding with turkey hens. The methods
+used in artificial brooding are very similar to those used in raising
+chicks, which are discussed in Farmers' Bulletin 1538, Incubation and
+Brooding of Chickens. However, one point of great importance in brooding
+poults artificially is to make sure that they do not crowd together
+while in the brooder house. This can be avoided by frequent attention,
+by providing an even temperature, and by having good ventilation in the
+brooder house. A colony house or permanent brooder house that is suitable
+for brooding chicks is equally suitable for turkeys, but fewer birds
+should be put in the house, as turkey poults are larger than chicks.
+Between 75 and 125 poults should be placed under one 52-inch hover in the
+average colony brooder House. Larger hovers and larger brooding rooms
+will accommodate 225 poults or more, but only an experienced operator
+should attempt; to raise groups larger than 150. The prevailing custom
+is to use brooder stoves in portable colony houses or permanent brooding
+quarters.
+
+The colony houses may be moved several times each season, thereby giving
+the poults plenty of free range on clean soil. Since blackhead is closely
+associated with insanitary conditions, special effort must be made to
+keep the houses, runs, and yards clean. If permanent brooder houses are
+used, a floor of concrete from 12 to 14 feet wide or a small gravel or
+cinder-floored yard is often used in front of the house. A skeleton
+framework covered with to 1-inch-mesh wire may also be used to floor the
+outside run either with the permanent brooder houses or with the colony
+houses (fig. 11). Poults are regularly confined to this small yard for
+the first 8 weeks and in some cases have been successfully reared to
+market age in it. However, a clean yard containing growing green feed is
+an advantage in brooding. If it is used only for about 8 weeks each year,
+there seems little danger of contamination.
+
+The brooder and brooder house should be operated to keep the young
+turkeys comfortable. A dim light under or above the hover at night has
+a quieting effect on the poults. The temperature should be high enough
+to keep the poults comfortable but not high enough to be detrimental to
+their health. When the poults are first put into the colony house with
+the brooder stove, the temperature 3 inches above the floor under the
+hover should be from, 95° to 110° F. This temperature should be lowered
+gradually as the poults get larger until they are 6 or 8 weeks old, when
+they require little or no heat, especially in the daytime. It is a common
+practice in cold weather to keep the general room temperature at the
+floor rather high, about 75°, to prevent crowding. The exact temperature,
+however, is of minor importance provided the poults are kept comfortable
+and good ventilation is maintained. The poults, if comfortable, will
+be active and contented. This is the real test of temperature. All
+warm points and surfaces except those at the brooder itself should be
+eliminated. Free access from all parts of the brooder room to the hover
+must be provided. All corners in the brooding room, especially back of
+the hover, should be rounded, preferably by using 1/2-inch-mesh poultry
+wire. A fence of the same material should be set up around the hover
+for the first 2 or 3 days until the poults become accustomed to their
+surroundings and learn to return to the source of heat. Flat roosts 2
+to 2-1/2 inches wide and slightly tilted up at the rear may be placed
+at graduated levels in the brooder house when the poults are from 2 to
+3 weeks old, to encourage them to begin roosting at an early age. This
+provision lessens the danger of night crowding. The front roost should be
+6 inches above the floor and each of the others a few inches higher than
+the one in front of it and about 8-1/2 inches apart, center to center.
+
+[Illustration: Figure 11.--Young turkeys in a colony house
+equipped with wire-floored sun porch.]
+
+
+SANITATION
+
+The brooder house should be thoroughly cleaned and the litter changed
+once every 7 days, or oftener if disease occurs, regardless of the type
+of litter used. This cleaning schedule must be adhered to rigidly if
+blackhead, coccidiosis, and other diseases are to be prevented.
+
+Thoroughly clean and disinfect brooder houses and equipment used for
+turkeys at the end of each brooding season or oftener if disease occurs.
+First clean the house thoroughly and burn all litter and droppings or
+haul them to land that is not to be used for poultry and from which
+there will be no drainage into the turkey range. Then scrub the floor
+and sides of the house, if it is of board construction, with boiling hot
+lye solution (one-third of a can to a pail of water) and allow them to
+dry out. Next, thoroughly spray the entire inside of the building with
+a 3- or 4-percent solution of cresol compound or any other approved
+disinfectant. Give the same treatment once a year to the quarters
+occupied by the breeding stock. The "fire gun", a large kerosene torch
+which involves the blow-torch principle, has proved to be valuable in
+disinfecting, if it is properly used and the house has been thoroughly
+cleaned.
+
+
+LITTER
+
+Sand or gravel is recommended for litter for the first 2 or 3 weeks;
+after that, clean wheat straw is advised as a means of saving labor.
+Gravel or sand makes the best litter; but with large flocks, using it
+for more than 2 or 3 weeks may require too much labor. Straw or hay, if
+used during the first 2 weeks, may cause a stunting of growth and a high
+mortality. Many growers have been successful in using, as a substitute
+for litter, 1/2-inch wire mesh stretched tightly a few inches above the
+floor of the house, but it requires much labor to clean this, and it
+seems to have no advantage over clean litter. A wire-floored sun porch
+makes a good substitute, for an outside yard during the brooding period
+although, as previously stated, a clean yard in grass is preferable.
+
+
+EARLY DEVELOPMENT
+
+The poults, when first hatched, are covered with soft down. When they
+are about 10 days old, feathers begin to appear where the wings join the
+body, and in about 3 weeks the tail feathers begin to appear. From then
+on feather growth is rapid, and when the poults are 2 months old they
+are well feathered. About the fifth week fleshy protuberances called
+caruncles begin to appear, and by the seventh week they begin to extend
+down the neck. The appearance of caruncles in the poults is termed
+"shooting the red." On the top of the head of both males and females
+a fleshy protuberance develops into what is called the "dew bill" or
+"snood"; on males it is larger and more elastic than on females.
+
+The sex of young turkeys can be distinguished by the appearance of a
+tuft of hairs on the breast of males between 3 and 4 months old. The
+tuft usually does not appear on the breasts of the females until they
+are much older, and the hairs of the tuft are shorter and finer than
+those on males. The hock joints on the males are much broader and heavier
+than on the females. The sex of well-grown Bronze turkey poults can be
+distinguished by examining the mature breast feathers which appear at 12
+to 14 weeks. Those of the males are bronze black with no white, whereas
+the tip of those of the females have a narrow white edge. Day-old poults
+may be sexed as is done with baby chicks by examining that part of the
+sex organs that can be seen at the vent.
+
+
+MARKING
+
+When large numbers of turkeys are raised it is advisable to adopt some
+system of marking the poults that enables the grower to keep a record of
+the age and breeding of the different broods, as this is of assistance in
+selecting early hatched birds for breeding and slaughter purposes. Such
+a system also makes it possible to separate the poults out of special
+matings from the rest of the flock or from neighboring flocks. The poults
+may be marked by punching holes in the webs between the toes or slitting
+these webs. Different webs may be punched or slit for different broods,
+and thus provide a record of all turkeys raised.
+
+Heavy, aluminum, clinch pigeon-wing bands are well adapted for marking
+young turkeys. The bands can be applied in two ways:
+
+  According to the first, the band is first made round and clinched,
+  then slipped over the baby poult's toes and flattened so that it will
+  not come off but at the same time will allow for some growth of the
+  leg. When the poult is about 4 weeks old the band is transferred to
+  the wing by unclinching and inserting it in a hole made in the middle
+  of the web between the first and second joints of the wing and about
+  one-fourth inch from the edge. The band is again clinched and made
+  round so that it is not easily flattened and its lettering can be read
+  easily. According to the second method of application the band is put
+  directly into the wing at hatching time, a thin knife blade being used
+  to make the hole for the band, near the edge of the web and midway
+  between the joints of the wing. Turkey poults, when good sized, may
+  be tattooed on the wing for identification. When the breeding turkeys
+  are selected as they approach maturity, heavy wing bands or heavy
+  permanent leg bands may be used if the birds were not marked at an
+  earlier age.
+
+
+FEEDING GROWING TURKEYS
+
+Success in turkey raising depends mainly upon the combination of feeds
+given the young poults. Poor-quality feeds, lack of vitamins, and
+shortage of proteins, especially if the poults are closely confined, are
+the more common causes or failures. Some difficulty may be experienced
+in getting artificially brooded poults to eat, as a young poult is much
+less active than a chick; but if several small troughs are provided
+there should be no serious trouble from this cause. Dipping the beaks of
+backward poults in milk or water, or feeding oatmeal flakes may induce
+them to eat. Poults brooded with hens, of course, do not need this
+special attention.
+
+After the poults are from 6 to 8 weeks old they may get some of their
+living from a good range, but the use of additional feed, preferably a
+balanced ration of mash and scratch grain, will give better growth and
+result in early maturity and greater returns above feed cost.
+
+In natural brooding the turkey hen, while confined to the coop, should
+be fed mash and given some tender green feed. Water and gravel or grit
+should, of course, be kept before her all the time. In feeding the hen
+and her brood it is advisable to feed the poults outside the coop and the
+hen inside in order to prevent the hen from wasting the feed intended for
+the poults.
+
+For the first 24 to 72 hours after hatching, poults can live without
+feed, the yolk of the egg which they absorb before hatching being
+sufficient to maintain them for that length of time. As soon as they are
+put into the brooder house or with the hen they should be fed. If they
+are not fed for the first day or two they should be kept in a darkened
+coop or incubator. However, leaving the poults in a darkened incubator
+for only 12 to 24 hours and feeding them as soon as they are removed to
+the brooder seems to be better and is now becoming a general practice.
+
+[Illustration: Figure 12.--Cross section of trough feeders for
+turkey poults of various ages; _A_, Lath feeder for first week; _B_,
+feeder for second to fourth weeks; _C_, feeder for fifth to twelfth
+weeks. Feeder _C_ will give better results if equipped with a reel, at
+the top, similar to that shown in figure 14.]
+
+
+The first feed may be a mixture of finely chopped, tender green feed,
+and dry starting mash. Hard-boiled eggs, ground or crumbled, may also be
+added if desired. This feed should be placed on clean boards or in little
+feeders made of laths as illustrated in figure 12. It is a good plan to
+keep the feed before the poults at all times from the very beginning so
+that the backward poults will learn to eat and their growth rate will not
+be retarded. Milk, if not too high priced, may be kept before them in
+easily cleaned crockery, tin, wooden, or graniteware receptacles which
+the poults cannot get into or contaminate. After the first few days the
+green feed, unless it is available in the yards, may be spread on top
+of the mash in the feeders. Turkey poults appear to be easily harmed by
+eating large quantities of tough, fibrous litter or green feed; hence the
+selection of a tender green feed is most important.
+
+FEEDING DURING THE FIRST 6 TO 8 WEEKS
+
+The use of a well-balanced, all-mash ration is the simplest and most
+practical method of feeding poults during the first few weeks of their
+lives. Many commercial starting mashes are available or good home-mixed
+mashes may be used with excellent success. The protein, mineral, and
+vitamin contents are the main points to be considered. Milk in some form
+is very desirable, dried milk being preferable. Liquid milk is a fair
+feed, but the dried form is preferable at least for starting rations.
+
+The following starting mashes are recommended for feeding turkey poults
+during the first 6 to 8 weeks. Mash No. 1, fed without liquid milk, is
+preferable.
+
+
+  STARTING MASH NO. 1                       _Parts by
+                                               weight_
+  Yellow corn (ground)                          17
+  Whole oats (pulverized)                       15
+  Meat scrap (50- to 55-percent protein)        12
+  Wheat bran                                    12
+  Wheat middlings or shorts                     12
+  Dried milk                                    10
+  Alfalfa leaf meal                             10
+  Fish meal (60-percent protein)                10
+  Cod-liver oil                                  1-1/2
+  Salt (fine, sifted)                              1/2
+                                               -------
+      Total (crude protein 25 percent;
+        crude fiber 6 percent)                 100
+
+  STARTING MASH NO. 2                       _Parts by
+                                               weight_
+  Yellow corn (ground)                          33
+  Wheat middlings or shorts                     20
+  Wheat bran                                    10
+  Whole oats (pulverized)                       10
+  Meat scrap (50- to 55-percent protein)        10
+  Alfalfa leaf meal                             10
+  Fish meal (60-percent protein)                 5
+  Cod-liver oil                                  1-1/2
+  Salt (fine, sifted)                              1/2
+                                               -------
+      Total (crude protein 19 percent;
+        crude fiber 6 percent)                 100
+
+
+Starting mash No. 2 is advised for feeding when liquid skim milk or
+buttermilk is kept before the poults at all times. Some water is
+furnished, allowing one dish of water to several of milk. These starting
+mashes are fed without scratch grain; but water, green feed, and hard
+grit such as fine gravel, coarse sand, or commercial granite grit should
+be supplied. The green feed should be chopped fine and scattered on top
+of the mash in the feeders once or twice daily, allowing all the poults
+will consume in about half an hour. Tender alfalfa tops, onion tops,
+lettuce, and tender, short lawn clippings, preferably those containing
+clover, are all good feeds. Tough green feed should be avoided as it may
+cause impaction. Green feed as picked by the birds from the yards is
+most desirable. In that case hand feeding is not necessary. The mash in
+dry form should be kept before the poults at all times, but only enough
+mash to last for a day or two should be supplied at one time. About 1
+inch of feeder space per poult (including both sides of the feeders) is
+desirable. This should be increased to 2 or 3 inches after about 2 or 3
+weeks. Plans for feeders are shown in figure 12.
+
+FEEDING FROM 6 TO 8 WEEKS TO MARKETING TIME
+
+Rations for growing the poults after the age of 6 to 8 weeks may include
+mash and whole grain or liquid milk and whole grain. Many turkeys are
+grown and fattened on grain supplemented with whatever insects and
+green feed can be obtained from the range. A better plan is to provide
+sufficient protein and minerals to give normal growth. The minimum
+feeding advised is to allow each day one liberal feeding of a 20-percent
+protein mash, or to furnish all the milk the birds will drink with a
+feeding of whole grain. Either the mash or the liquid milk should be used
+with liberal feedings of whole grain for fattening in the fall.
+
+Good growing mashes suitable for different conditions may be made as
+follows:
+
+  GROWING MASH NO. 1                        _Parts by
+                                               weight_
+  Yellow corn or barley (ground)                25
+  Oats or grain sorghum (ground)                25
+  Wheat middlings or shorts                     20
+  Meat scrap (50- to 55-percent protein)        19
+  Wheat bran                                    10
+  Salt (fine, sifted)                            1
+                                               -------
+      Total (crude protein 19 to 21 percent)   100
+
+  GROWING MASH NO. 2                        _Parts by
+                                               weight_
+  Yellow corn or barley (ground)                32
+  Soybean oil meal                              26
+  Wheat middlings or shorts                     15
+  Wheat bran                                    10
+  Oats or grain sorghum (ground)                10
+  Steamed bonemeal                               4
+  Ground oystershell or limestone                2
+  Salt (fine, sifted)                            1
+                                               -------
+      Total (crude protein 19-1/2 percent)     100
+
+  GROWING MASH NO. 3                        _Parts by
+                                               weight_
+  Yellow corn (ground)                          35
+  Meat scrap (50- to 55-percent protein)        15
+  Wheat bran                                    10
+  Wheat middlings or shorts                     10
+  Oats or barley (ground)                       10
+  Alfalfa leaf meal                             10
+  Dried milk                                     9
+  Salt (fine, sifted)                            1
+                                               -------
+      Total (crude protein 20 to 21 percent)   100
+
+  GROWING MASH NO. 4                        _Parts by
+                                               weight_
+  Yellow corn (ground)                          20
+  Wheat middlings (standard or brown)           15
+  Oats (finely ground)                          15
+  Wheat bran                                    10
+  Alfalfa leaf meal                             10
+  Yellow corn gluten meal                       10
+  Dried milk                                    10
+  Meat scrap (50- to 55-percent protein)         5
+  Steamed bonemeal                               2
+  Ground oystershell or limestone                2
+  Salt (fine, sifted)                            1
+                                               -------
+      Total (crude protein 20 percent;
+        crude fiber 6 percent)                 100
+
+These growing mashes are all fed with scratch grains consisting of such
+grains as corn, wheat, barley, and oats. Corn, wheat, or barley may be
+used as the only scratch grain except with growing mash No. 4, which
+should contain from 50 to 75 percent of oats. A good grain mixture may be
+made of 40 parts of corn, 40 parts of wheat, and 20 parts of oats. Mashes
+1 and 2 are for flocks having access to a good green range. In mash No. 2
+soybean oil meal, which has proved to be a good source of protein and is
+also good for fattening, is substituted for meat scrap. Mash No. 3 is a
+more complete ration and is advised for all conditions where the turkeys
+do not have an abundance of growing green feed.
+
+Other combinations of grains and byproducts may be used successfully,
+the exact selection depending largely on availability and cost of feeds.
+It is best to use at least two grains, and preferably three or four, in
+the ration. Corn is the grain most commonly used in feeding turkeys. Not
+more than 60 percent of the entire growing ration should consist of
+oats or barley or a combination of the two. Yellow corn tends to produce
+a deep-yellow skin color while white corn, barley, and wheat produce
+turkeys with light-colored skins.
+
+If the birds have all the milk they will drink along with whole grains,
+they will consume enough milk to make good growth, if no water is fed.
+A mixture of 30 percent of corn, 30 percent of oats, 20 percent of
+wheat, and 20 percent of barley is satisfactory; so is a free choice of
+several grains. However, the whole-grain and liquid-milk method works
+well only when the birds are on a good, green range and is practical to
+use only when milk products are cheap. Some loss from pendulous crops is
+to be expected when liquid milk is consumed liberally and this is one
+of the chief objections to its use. The milk receptacles should be set
+on a wire screen and covered to protect them from the weather and from
+contamination with droppings. Sanitation is especially important when
+milk is used.
+
+GENERAL SUGGESTIONS FOR FEEDING
+
+Feed should be kept before the birds constantly from hatching to market
+age. During the first 6 weeks feed starting mash. During the seventh
+and eighth weeks feed a mixture of equal parts of the starting and
+growing mashes. From 9 to 12 weeks feed the growing mash. From 13 weeks
+to marketing feed growing mash and scratch grain. No scratch grain is
+fed during the first 12 weeks. If a change is made from mash to the
+whole-grain and liquid-milk method, cut down the mash gradually until the
+poults learn to drink the milk and to eat the whole grain freely.
+
+Cod-liver oil is necessary in starting rations, but as a rule it is not
+necessary in a growing ration unless the birds are confined. In that
+case, about 1 percent should be added to the mash. A good grade of plain
+cod-liver oil is advised for use in turkey feeds. Fish meal, though an
+excellent feed, may impart an undesirable flavor to turkey meat. Fish
+meal and cod-liver oil should be omitted from the fattening ration
+during the last 8 weeks before the birds are marketed. Birds should not
+be moved, or feeding arrangements radically changed in the last 6 weeks
+before marketing.
+
+Feeding the growing mash wet is a common practice in some localities.
+Like the dry-mash and scratch-grain system, it produces fine-quality
+turkeys although the labor in feeding may be greater. With this method
+the turkeys are fed all they will eat of a moist, crumbly mash placed
+in troughs with sufficient trough space provided to accommodate all
+the flock at one time. Only as much mash as the birds will clean up in
+30 to 60 minutes is fed twice daily. Tail picking seldom occurs during
+moist-mash feeding if the ration is complete.
+
+Grit may be furnished in the form of commercial granite grit or coarse
+sand for little poults and fine gravel for the larger birds. Limestone
+grit does not serve well as grinding material and is unnecessary with the
+rations as listed.
+
+The poults may be put on the rearing ground when they are from 8 to 12
+weeks old. An alfalfa field is an ideal rearing ground and may be used
+as a permanent, fenced, rearing range divided into 2 or 3 sections.
+When the rearing range is divided into 2 sections, 1 may be used for 2
+seasons in succession while the other is rested for 2 seasons. A better
+plan is to divide it into 3 parts, allowing 1 season's use followed by
+2 seasons' rest for each of the 3 sections. With portable houses and
+fences a method known as the "Minnesota plan" (p. 37) permits the turkey
+poults to be moved to a new section once a week and to an entirely new
+plot each year. Land on which no poultry of any kind have run for 2
+years and on which no poultry manure has been spread, may be considered
+clean ground. The feed should not be put on the ground but in hoppers or
+troughs which should be moved frequently or set on wire-covered framework
+to prevent contamination with droppings. It is very important that the
+drinking water be fresh and clean and that the growing turkeys should not
+have access to stagnant water pools. Watering dishes should be placed on
+wire-covered platforms with a device to prevent contamination from the
+birds' perching on the top or sides.
+
+The limited-range method with full feeding, as described, is recommended
+in preference to free range with limited feeding. However, conditions
+sometimes demand that free range be permitted, and limited feeding
+practiced. In such cases, when natural feed is abundant, good results
+can be obtained by feeding the poults, after they are from 8 to 10 weeks
+old, only once daily, as previously suggested. Any of the growing mashes
+previously listed should make a good supplement to range feeds. This
+extra feed will tend to keep the birds nearer home and keep them growing
+at a reasonably good rate. Scratch grains should also be fed and as
+marketing time approaches, will be eaten more liberally by the birds. For
+turkeys on free range, plenty of water in convenient locations should be
+provided. Water helps to maintain good health and may help to prevent the
+condition known as "crop bound."
+
+Turkeys which are well fed should make increases in weight comparable to
+those given in table 2, which gives the average weights, at various ages,
+ox Bronze turkeys raised in an experiment conducted at the United States
+Range Livestock Experiment Station at Miles City, Mont. These birds were
+fed starting and growing mashes containing about 22 percent of protein.
+
+Table 2.--_Average weights of Bronze turkey poults from hatching
+time to market age_
+
+  ---------------+---------------------
+                 | Average live weight
+                 +----------+----------
+      Age        |  Males   | Females
+  ---------------+----------+----------
+                 | _Pounds_ | _Pounds_
+  Newly hatched  |   0.13   |   0.13
+  2 weeks        |   0.33   |   0.30
+  4 weeks        |   0.86   |   0.75
+  8 weeks        |   3.13   |   2.68
+  12 weeks       |   6.64   |   5.28
+  16 weeks       |  10.35   |   7.67
+  20 weeks       |  14.47   |   9.67
+  24 weeks       |  18.23   |  11.15
+  26 weeks       |  20.18   |  12.04
+  28 weeks       |  21.35   |  12.48
+  ---------------+----------+----------
+
+
+FEED CONSUMPTION AND COST OF GROWING
+
+The quantity and cost of feed used in raising a flock of 156 Bronze
+turkeys in Montana in 1934 are shown in tables 3 and 4. These poults (70
+males and 86 females) had well-balanced dry mashes (containing 22 percent
+of protein) before them at all times and scratch grain beginning with the
+second week. The birds were allowed to range on 2-acre nonirrigated lots
+after they were 8 weeks of age. The costs were based on local feed prices
+in Miles City, Mont., in 1934. By using the data in tables 2 and 3, the
+feed consumption and cost for an average turkey can be estimated for any
+period of growth.
+
+Table 3.--Average feed consumption and cost per pound of gain in
+4-week periods for 70 male and 86 female Bronze turkeys in 1934 at Miles
+City, Mont.
+
+  ---------------+----------------------------+---------------
+                 |                            |  Cost of feed
+                 |  Feed consumed per pound   |    for each
+                 |   of gain in live weight   |    pound of
+        Age      +--------+---------+---------+    gain in
+                 |  Mash  | Scratch |  Total  |    live weight
+                 |        |  grain  |         |
+  ---------------+--------+---------+---------+---------------
+                 |_Pounds_|_Pounds_ |_Pounds_ |  _Cents_
+  1 to 4 weeks   |   2.44 |   0.21  |  2.65   |     5.9
+  5 to 8 weeks   |   2.41 |   0.16  |  2.57   |     5.7
+  9 to 12 weeks  |   2.42 |   0.43  |  2.85   |     6.1
+  13 to 16 weeks |   3.47 |   0.42  |  3.90   |     8.8
+  17 to 20 weeks |   3.05 |   1.52  |  4.57   |     9.8
+  21 to 24 weeks |   3.09 |   3.45  |  6.54   |    13.5
+  25 to 28 weeks |   2.46 |   5.64  |  8.10   |    16.1
+  ---------------+--------+---------+---------+---------------
+
+Table 4.--Average feed consumption per bird in periods for 70
+male and 86 female Bronze turkeys in 1934 at Miles City, Mont.
+
+  ---------------+--------+---------+----------
+       Age       |  Mash  | Scratch |  Total
+                 |        |  grain  |
+  ---------------+--------+---------+----------
+                 |_Pounds_| _Pounds_| _Pounds_
+  1 to 4 weeks   |  1.39  |   0.12  |   1.51
+  5 to 8 weeks   |  4.45  |   0.29  |   4.74
+  9 to 12 weeks  |  6.67  |   1.19  |   7.86
+  13 to 16 weeks |  9.96  |   1.21  |  11.17
+  17 to 20 weeks |  9.05  |   4.52  |  13.57
+  21 to 24 weeks |  7.64  |   8.53  |  16.17
+  25 to 28 weeks |  5.19  |  11.89  |  17.08
+  ---------------+--------+---------+----------
+
+Using the data contained in tables 2 and 3, it will be found that it took
+approximately 96 pounds of mash and scratch feed to raise a 21-pound tom
+to 28 weeks of age, and about 57-1/2 pounds of mash and grain to raise a
+12-1/2-pound hen to that age, or about 4.6 pounds of feed for each pound
+of live weight, when practically all feed was furnished. It took about 4
+pounds of feed for each pound of live weight up to 24 weeks of age. The
+birds had access to a moderate sized range lot containing native grasses,
+but very little feed was obtained from it during the 1934 season.
+
+DEFORMED BREASTBONES
+
+Crooked and dented breastbones in turkeys are common and sometimes cause
+a considerable loss to growers when the birds are marketed, since a
+severely crooked or very deeply dented breastbone causes the carcass to
+be graded as no. 2.
+
+It is generally believed that faulty nutrition causes most of the
+deformed breastbones, although level roosts narrower than 2-1/2 inches
+have been known to cause deformities of this kind. If turkeys are
+supplied with green feed, fed liberally on one of the rations suggested,
+provided with tilted 2 by 4 roosts or medium-sized poles (see page 35),
+and have plenty of direct sunlight, there will be few crooked breastbones
+among them. A small number (from 1 to 2 percent) is to be expected as
+it seems to be impossible to eliminate them entirely. The addition to
+the ration of steamed bone meal and limestone grit or oyster shell as
+a mineral reinforcement is recommended by some poultrymen. However,
+the various rations, as listed, supply adequate quantities of the
+bone-building ingredients. Further additions are unnecessary and may even
+be harmful.
+
+[Illustration: Figure 13.--Mash hopper for feeding young turkeys
+12 weeks old or older. The end plan of the same hopper is shown in figure
+14.]
+
+
+
+
+EQUIPMENT FOR RAISING TURKEYS
+
+
+CONTAINERS FOR FEED AND WATER
+
+During the first 3 or 4 weeks after the poults hatch, two-piece crockery
+fountains are excellent milk containers. For water, galvanized metal
+containers are more convenient. When the poults are from 4 to 10 weeks
+old, water pails, metal troughs, or shallow tin or graniteware pans
+provided with wire or wooden guards are more satisfactory than fountains.
+A good method is to place the water or milk outside the wall of the
+brooder room so that the poults can drink it through a wire screen.
+From the age of 9 weeks until market age, a supply of running water is
+preferable, although ordinary water pails set inside the range house on
+the wire floor or nails or tubs set outside the fence, with openings in
+the wire for the birds' heads, are satisfactory. Changing the position
+of the watering devices every few days or setting them on wire-covered
+platforms will aid in providing sanitary conditions near the watering
+places where filth is likely to accumulate rapidly. A watertight barrel
+provided with a drip faucet and a trough also makes a good watering
+device. Shade should be provided to prevent the drinking water from
+getting hot. Suitable equipment for feeding mash and scratch feed is
+shown in figure 12.
+
+[Illustration: Figure 14.--Diagram of end of mash hopper for
+feeding young turkeys. Side view of same hopper shown in figure 13.]
+
+[Illustration: Figure 15.--A waste-proof, portable, outdoor
+shelter for feeder. The wire floor helps to prevent contamination from
+the soil and the roof provides shelter when the birds are eating.]
+
+[Illustration: Figure 16.--Large range house for turkeys. This
+type is equipped with a wire-floored alleyway, as shown in figures 17 and
+18. The antiflies on the roof prevent turkeys from roosting there.]
+
+Small trough feeders made of lath (fig. 12, _A_) may be used from the
+first day in the brooder and until the poults are a week old. Such
+feeders are made with 1 lath for the bottom, 2 for the sides, small
+sections for end pieces, and another lath for a guard to keep poults out
+of the trough. For poults from 8 days to 4 weeks old it is better to use
+large trough feeders made of 1/2- by 2-1/4-inch boards for the sides with
+a top guard consisting of a free-turning reel. Baling wire stretched
+inside the troughs (fig. 12, _C_) aid in preventing waste of feed and
+also serve as beak cleaners for the birds. To prevent waste, it is better
+not to fill most trough feeders more than two-thirds full. In the brooder
+house it is important to place feeders on a wire platform made of 1-inch
+mesh, 16-gage wire, and 1- by 4- or 1- by 6-inch boards. Poults 5 to 12
+weeks old should have trough feeders made of 1/2- by 5-inch boards for
+the sides, with a free-turning reel at the top. For poults from 12 weeks
+old to market age the feeders should be even larger, as illustrated in
+figures 13 and 14.
+
+[Illustration: Figure 17.--End elevation of turkey range house
+with alleyway.]
+
+[Illustration: Figure 18.--Floor plan of turkey range house with
+alleyway.]
+
+After the age of about 12 weeks, and when feeding is done under shelter,
+use a flat-bottomed trough from 12 to 18 feet long or several short
+feeders made with a 1- by 10-inch board as a bottom, 1- by 8-inch boards
+as sides, and with a guard of 1- by 4-inch center piece topped with a
+free-turning roller or reel (fig. 14). For outside feeding a similar
+trough is advisable. It should be divided into two sections each 6 to 9
+feet long, set on 2- by 8- or 2- by 10-inch skids covered with 1-inch
+hexagonal mesh, 16-gage wire or heavy gage 1-inch-mesh hardware cloth,
+and provided with a gable roof and side boards to protect the feed and
+the birds from sun, wind, and rain (fig. 15). The troughs can be removed
+to be used as inside feeders and for replenishing the feed. Two 9-foot
+feeders are sufficient for 150 to 175 birds. Inside feeding is preferred
+whenever possible to provide it.
+
+[Illustration: Figure 19.--Interior of 10- by 25-foot ran so
+house showing wire floor and wire under roosts. Figure 17 shows the wire
+nailed on the underside of the roost supports.]
+
+[Illustration: Figure 20.--This shed-roof range house will
+accommodate from 130 to 150 growing turkeys to market age. The plan of
+this house is shown in figure 21.]
+
+
+HOUSES AND FENCES
+
+A verminproof, weatherproof roosting shelter for growing poults is an
+important piece of equipment. A square or rectangular structure with a
+shed or gable roof makes a satisfactory range house. A shed roof is more
+easily constructed. The use of wire guards called "antiflies" will keep
+turkeys off the roof. Allowing for a 5-foot wire-floored alleyway to hold
+the feeders and waterers, a house about 10 feet wide and 25 feet long
+(figs. 16, 17, 18, and 19) will accommodate 150 to 175 growing turkeys to
+market age; a similar house about 16 by 18 feet is large enough for 100
+birds. Feeding and watering can be done inside. For a permanent house, a
+height of 5 or 5-1/2 feet at the caves and about 8 feet at the front (or
+the peak, if gable-roofed) is sufficient. If no alleyway is used, a house
+9 by 26 feet containing roosts only should care for 130 to 150 turkeys to
+market age (figs. 20 and 21).
+
+[Illustration: Figure 21.--End elevation of range shelter for
+turkeys. This type is built without an alleyway and measures 9 by 20
+feet.]
+
+With the latter type of house, feeding and watering must be done outside,
+preferably with a covered feeder, as shown in figure 15. A cheaper
+portable coop, not so high and with framework of lighter material, is
+shown in figure 22. This coop is built on 4- by 10-inch skids and is
+equipped with raised wire floor and with roosts.
+
+[Illustration: Figure 22.--Portable turkey range houses equipped
+with wire floors and antiflies. The house on the left is 16 by 20 feet
+and has a feed storage room at one end.]
+
+A permanent house should face south or in a southerly direction so that
+the front is not exposed to storms. Board sides on the north and west
+are desirable. Practically open-air conditions, combined with good
+protection, may be obtained by leaving wire-covered openings about 2 or
+2-1/2 feet wide across the north, west, and east sides at about the level
+of the roosts. These Openings should be made closable by shiplap doors
+that may be partly opened in warm weather and closed during cold weather
+and storms. The south side may be left entirely open except for 1-inch
+hexagonal mesh of 16- or 18-gage wire and enough boards to give strength
+to the building and protect the birds from rainstorms.
+
+As mentioned on page 29, desirable roosts may be made of 2 by 4's with
+edges beveled and laid flatwise but slightly titled up at about the angle
+of a quarter-pitch roof in the direction toward which the birds are
+likely to face. Roosts made of 2 by 4's or other sawed lumber may cause
+dents in the breastbones if they are laid perfectly flat. Smooth poles
+2-1/2 to 5 inches in diameter also make good roosts. Material less than
+2-1/2 inches wide is not recommended for turkeys half grown or older.
+Roosts should be placed preferably 20 to 24 inches apart (center to
+center), about 14 inches from the wall and lengthwise or the building.
+Those nearest the back wall of the shelter should be the highest, and
+each of the others should be about 6 inches lower than the one back of
+it. This arrangement insures an even distribution of the birds on the
+roosts without crowding. Allow about 1 foot of roost space per bird as
+they require as much space as this when approaching market age.
+
+The space beneath the roosts should be fenced off and covered with
+1-1/2-inch, 18-gage wire mesh to prevent the birds from getting at the
+droppings. This wire should be placed either on the under side of the
+roost supports (fig. 17) or on special wire supports (fig. 21), and it
+should be 6 to 12 inches below the top of the roosts. When a wire-floored
+alleyway is used, removable vertical panels made of 1- by 4-inch boards
+covered with the 1-1/2-inch hexagonal, 18-gage wire mesh should be placed
+directly under the roosts which border the alleyways in such a way as to
+close the opening underneath the roosts (fig. 19).
+
+In very dry regions, it the space underneath the roosts and wire floors
+is entirely enclosed, the droppings may be allowed to accumulate
+throughout the entire growing season to save labor. In damp climates,
+however, the droppings should be removed frequently.
+
+Wire floors may be used, as described, in the alleyways of roosting
+shelters to provide a place for inside feeding and watering and may also
+be used in the outside yards when close-confinement rearing is practiced.
+A practical method of construction is to make the floor in removable
+sections, each about 5 feet square. The framework should be made of
+2 by 4's placed on edge, with the top edge beveled to present about
+three-fourths inch of surface; the center supports may be of 1 by 4's,
+also placed on edge, spaced 12 to 16 inches apart, and laid lengthwise
+of the alleyway (fig. 19). This frame should be covered with 1-inch
+hexagonal, 16-gage wire mesh or chain-link fabric wire. Hardware cloth
+in a 1-inch mesh made of 14-gage wire is perhaps more satisfactory and
+will last longer, but the first cost would be greater. The wire may be
+fastened with eight-penny nails and 1-inch staples alternated, one for
+each strand of wire, but fastened only to the top or sides of the 2- by
+4-inch framework, not to the center supports. The sections should be set
+loosely in the alleyway and held 1 inch apart by nails driven into the
+sides of the framework. Supports made of either 2 by 4 or 2 by 6 inch
+material should be placed on both sides of the alleyway, directly under
+the outer framework of the floor panels, and blocked up so as to hold the
+floor frames 1 foot above the ground.
+
+Since hen turkeys fly well, it is sometimes difficult to keep them in
+their runways. Clipping the large outer feathers (called primaries) of
+one wing will do much to prevent the turkeys from flying, but it is
+usually necessary to put a 3- or 4-foot guard made of 1 by 4 or 2 by 2
+inch material and lightweight poultry wire around the edge of the roof of
+the roosting shelters, on gates, and on the fences themselves for 2 or
+3 rods out from the buildings. Whenever practicable, these "antiflies"
+should be slanted in toward the yard (figs. 16 and 20). Clipping the
+wings of the toms is undesirable and is usually unnecessary when
+antiflies are properly constructed.
+
+A 5-foot fence is usually high enough to confine turkeys, except near
+buildings and over gates, where the fence should be 8 or 9 feet high.
+Even a 4-foot fence has been reported as satisfactory by some growers.
+Steel posts and square-mesh poultry fencing of full standard weight make
+good turkey fences.
+
+
+PROTECTION AGAINST DOGS
+
+Dogs cause heavy losses among turkeys in many localities. Turkey houses
+must be well constructed to exclude dogs. Wire of 16-gage to 18-gage
+weight is necessary, and it must be very tightly nailed. The 16-gage
+weight should be used for the outside of buildings where it comes close
+to the ground. Confining the turkeys to their shelters all night and
+through the early morning hours is frequently a necessary precaution
+unless an attendant is present or protection is afforded by a good
+watchdog. Fences for confining poultry are not always entirely dog-proof.
+High roosts, provided by some growers, give protection at night, but in
+the early morning hours when the turkeys are off the roosts, an attendant
+should be in the vicinity. Feeding the flock inside the shelter is
+advantageous when turkeys must be confined during the early morning hours
+as this greatly increases the feeding period.
+
+
+DEVICES THAT PREVENT TAIL-FEATHER PICKING
+
+Tail-feather picking seems to begin by the birds' using each others' tail
+feathers to clean their beaks of mash. Although it does not ordinarily
+damage the birds for market, the habit ruins their appearance and
+decreases their salability as breeding stock. It is not always possible
+to prevent tail-feather picking entirely, especially in flocks raised in
+confinement or in small range lots, but it may be prevented partially by
+providing tightly stretched wire in or over the mash feeders. Baling wire
+stretched tightly or strips of ordinary light-weight poultry wire may be
+used.
+
+Feeding the mash moist will also aid in preventing tail-feather picking.
+The kind of mash may also be a factor. A rather coarse mash containing
+considerable ground corn, some bran, and some coarsely ground oats or
+barley, including the hulls, seems to be more palatable than a fine mash
+and is not so likely to clog the beaks of the birds.
+
+
+
+
+RANGE MANAGEMENT OF GROWING TURKEYS
+
+
+In Minnesota a successful system of moving poults around the colony
+brooder house has been devised and is giving excellent results. The house
+is built with a small opening in each side, and a portable frame is so
+placed that the ground on each side of the house can be used as a small
+outside run. The birds are allowed to range to the south for from 5 to 10
+days; then the house is thoroughly cleaned and the range changed to the
+west; and so on until the land on all four sides of the house has been
+utilized. The house is then moved to a clean spot, and the rotation is
+repeated. After the birds are from 8 to 12 weeks old the house is again
+moved to a clean place. Turkeys may be raised successfully on a small
+acreage if they are moved to a clean area each week or two and to an
+entirely different, clean area each year.
+
+Other systems of yarding have been devised, but the value of most of them
+has not been proved experimentally. Some system of rotation is necessary
+on a farm where turkeys are raised regularly. For fenced ranges where
+the semiconfinement method is to be used, the Minnesota plan is entirely
+satisfactory for small flocks. For large flocks the use of large yards
+in the double or triple yarding system has given good results. Under
+this system, after 8 or 10 weeks of brooding, the poults are put on
+range, which may be divided into 2 or 3 equal parts. The range used is
+changed yearly or biennially either by moving the equipment or by having
+permanent equipment for each range. In the absence of fences, turkeys
+may be herded so that they are protected from enemies and kept within
+the clean area allotted to them each season. The use of portable fences
+and portable roosting shelters enables the grower to move the entire
+flock to clean range each season or several times each season. This
+method is practical where large areas of suitable range are available,
+so that the birds can be reared each season on land that has not been
+used, or on which no droppings have been spread, for the preceding 2
+years. In wet climates it is probably safer to allow a rest of 3 or 4
+years. Enough range should be provided so that plenty of growing green
+feed is available in each yard at all times during the season. When
+the same ground is used for a whole season, and rainfall or irrigation
+is adequate, an acre of grass pasture should provide range and green
+feed for about 100 growing turkeys. An acre of alfalfa or clover would
+probably provide feed for 150 birds, under favorable conditions.
+
+In arid or semiarid sections, during very dry seasons, it may be
+advisable to provide fresh, green feed, or legume hay in abundance to
+discourage the turkeys from eating undesirable green feed on the range. A
+complete ration must be provided for such conditions.
+
+Where the range is limited to small areas of fenced land, the use of a
+number of permanent range houses set in a row, preferably 200 feet or
+more apart, in the middle of the range and along the dividing fence is
+a practical method of range utilization. The dividing fence should be
+double so as to provide a neutral area between the two ranges. Under this
+plan the birds can use one-half of the range for 2 years in succession
+and the other half for 2 years without the buildings being moved. If
+individual range lots are desired for each flock of birds, permanent
+range shelters arranged on either side of a service lane, each with
+double or triple yards, are a solution to the clean-range problem.
+If double yards are used for each house or if the range as a whole is
+divided into 2 sections, a rotation of 2 seasons of use, followed by 2
+seasons of rest may be the best plan. Where 3 yards for each house can
+be arranged or where the whole range is divided into 3 large yards, each
+yard can be used for 1 season and allowed 2 seasons of rest.
+
+Under any system of permanent yards, certain sanitary precautions are
+essential. Among these are the following: (1) Select such a location or
+modify the one available in such a way that there is as little drainage
+as possible from the yards that are being used to those that are being
+rested; (2) each season, or several times each season, remove the
+accumulations of droppings from the ground around the houses, feeders,
+and water vessels; (3) grade up around each house with fresh earth each
+season or whenever it is necessary, to prevent water from standing near
+the buildings; (4) fill in or drain all depressions so that water does
+not stand for any length of time anywhere on the range; (5) use antiflies
+and, if necessary, clip one wing of each bird to keep it from flying
+into and contaminating the yards that are being rested; (6) prevent
+birds or persons from going in and out of yards that are being rested;
+(7) move feeders and water vessels frequently, feed and water the birds
+inside the range shelters on the wire floors, or place the feeders and
+water vessels outside on roofed wire platforms so that the droppings
+that accumulate near them will not become sources of infection; (8) use
+contamination-proof feeders and water vessels; (9) see that flies do not
+breed extensively in or near the houses and feeders; (10) place wide
+boards set into the ground, an inch or two at the bottom of the fences
+and extending for about 10 yards out from the buildings to prevent refuse
+spreading to the adjoining yards.
+
+When birds are herded on free range some growers move the roosts,
+feeders, and water vessels to clean ground several times each season,
+whereas others use permanent roosting and feeding quarters and bring the
+birds back each night. In either case excessive contamination at any one
+point should be prevented so far as possible.
+
+
+
+
+FATTENING TURKEYS FOR MARKET
+
+
+In general, the best method of raising turkeys is to keep them growing
+at a normal rate so that at the age of about 6 months they are in prime
+market condition, no special fattening period being necessary. Such a
+method calls for liberal feeding of balanced rations throughout the
+growing period. A good range will supply a large quantity of feed at a
+very reasonable cost, but not even the best range will furnish enough of
+the right kinds of feed to produce large numbers of prime turkeys without
+supplementary feeding.
+
+In many instances, however, turkey growers believe that it is more
+profitable to force the birds to forage for most of their livelihood
+until a few weeks before marketing time. A good plan for fattening these
+range-grown birds is to begin early in the fall to feed the birds mash
+and scratch, allowing them all they will eat of both. As they approach
+maturity they will eat mostly scratch grain. The mash may be fed moist or
+dry. Milk is an excellent fattening feed, and if plenty of liquid milk is
+available it may be fed with scratch grain only and no mash. Some turkey
+raisers feed equal parts of corn, wheat, and oats during the first part
+of the fattening season and gradually change to all corn as the weather
+becomes cooler. This system is satisfactory if plenty of milk can be fed
+in addition. Without milk or some other high-protein feed, the results
+are likely to be unsatisfactory. If too heavy feeding of corn alone is
+begun before the range turkeys become accustomed to it, the disease known
+as scours often results, especially if new corn is used. Old corn is a
+much better feed than new corn, but the new crop is safe after it is well
+matured and dry.
+
+As a general rule, turkeys that have been raised on free range cannot
+be successfully fattened in close confinement. They may be successfully
+fattened, however, if they are confined to moderate-sized yards
+containing growing alfalfa or other green crops or stacks of alfalfa or
+clover hay. There is no advantage in confining turkeys which have been
+raised in semiconfinement to smaller quarters for fattening.
+
+
+
+
+MARKETING TURKEYS
+
+
+The marketing season for the bulk of the turkey crop is usually
+comparatively short, extending from the middle of November to the latter
+part of December. There is an increasing demand in the fall and winter
+and even in late summer for young turkeys. Many turkey raisers sell their
+birds alive to poultry dealers, who either dress them or ship them alive
+to city dealers. In sections where turkeys are grown in large numbers, as
+in Texas, dressing plants have been built by cooperative associations and
+poultry dealers who collect the live birds and dress them for the various
+city markets. As soon as possible after reaching the dressing plant, the
+turkeys are killed, dry-picked, cooled, and packed in barrels or boxes
+for shipment.
+
+Farmers near the city markets often dress their turkeys and sell them
+direct either to the consumer or to the city dealer. In territory
+adjacent to large cities marketing both live and dressed birds at
+roadside stands has become common.
+
+
+WHEN TO MARKET
+
+Experiments with Bronze turkeys have indicated that well-fed, young
+birds of this popular variety are marketed to best advantage at from 24
+to 28 weeks of age, if they are in good flesh and reasonably free from
+short pinfeathers. If they are kept longer than 28 weeks, the cost of
+maintenance and gains and the extra labor of their care cause the costs
+of production to rise rapidly. Under ordinary conditions 26 to 28 weeks
+is the best age for marketing full-fed Bronze turkey toms. For turkeys
+fed for rapid growth 24 weeks is a more profitable age if the birds are
+ready for market then, as is often the case with young hens which mature
+more quickly than the toms. Data obtained on more than 600 birds at the
+United States Range Livestock Experiment Station at Miles City, Mont.,
+show that at 24 weeks of age the feed cost of producing live turkeys was
+1 cent per pound lower than at 26 weeks of age, and 2.5 cents per pound
+lower than at 28 weeks. These figures, of course, will vary in different
+years, depending on the price of feeds. Besides this cost for feed the
+extra labor in caring for the birds, often during unfavorable weather,
+must be considered.
+
+With the expansion of the turkey industry, the chain stores have become
+one of the large wholesale buyers of turkeys. They desire various sizes,
+according to the nature of the patronage in different localities, and as
+a result create a considerable market demand for hens and small toms.
+This is particularly true of their Thanksgiving and Christmas trade.
+Other channels of trade, such as restaurants, hotels, steamships, and
+railroad lines, prefer large toms. As turkeys become more generally used
+throughout the year an increase in the trade for small birds may be
+expected.
+
+
+SELECTING BIRDS FOR MARKET
+
+Practically all turkeys that are full fed are ready for market at from
+26 to 28 weeks of age, and in many cases at 24 weeks, depending on sex,
+breeding, feeding, and weather. However, with range birds on limited
+feed, the grower can probably afford to hold his turkeys longer than 26
+or 28 weeks, if necessary, because the feed costs were low during the
+growing period. It is, of course, very important to market only turkeys
+that are fat and free from small pinfeathers. Sufficient protein and
+minerals in the feed during the fall months are essential to proper
+growth and economical gains as well as to proper feather development. A
+prime turkey, especially a young one, is not expected to be excessively
+fat, but it must have an even covering of fat so that the skin appears
+white or yellowish white rather than dark or bluish. The breast must
+be meaty and the whole body free from small pinfeathers, bruises, and
+abrasions. Great care should be taken, therefore, not to allow the birds
+to bruise themselves by flying or running against obstructions; they
+should be handled gently and not frightened.
+
+
+WITHHOLDING FEED BEFORE SLAUGHTER
+
+Birds with feed in their crops are usually graded as no. 2 and sold at a
+lower price because feed in the crop spoils readily, and also detracts
+from the appearance of the carcass. Mash feed passes out of the crop
+quickly so that crops will be empty if the mash is removed at dusk on
+the day before slaughter and no scratch grain fed on that day. If the
+birds are kept without feed for more than 18 or 24 hours they may eat
+soil, litter, droppings, or feathers, and thus defeat the main purpose
+of withholding feed. This applies especially to old hens. If the birds
+are not to be killed until late afternoon or evening, give them a light
+feed of mash early in the morning. Scratch grain should be fed only until
+about 18 hours before slaughter. Feeding should always be planned so
+that feed is not withheld more than 24 hours. All birds being held for
+slaughter should have free access to water up to killing time.
+
+
+KILLING AND PICKING
+
+When the bird is to be killed, hang it up by the feet, holding its head
+in one hand and taking care not to compress the veins in the neck.
+Open the mouth and cut the jugular vein far back in the throat, just
+below the base of the skull. For this purpose use the point of a sharp,
+narrow-bladed knife. As soon as profuse bleeding begins, thrust the knife
+up through the groove in the roof of the mouth and into the rear lobe of
+the brain at the back of the skull so as to render the bird unconscious.
+When the correct "stick" is obtained, the bird usually gives a peculiar
+squawk, the tail feathers spread, and all the feathers are loosened by
+a quivering of the muscles. After sticking, continue to hold the bird's
+head and attach a blood cup to the lower jaw. The bird's wings should
+never be locked, as this often results in their being broken, which
+usually reduces the bird to a low grade. Likewise, no attempt should be
+made to hold the bird's wings tightly. Blood cups weighing 5 pounds are
+needed for large birds, whereas cups weighing 3 to 4 pounds are best for
+small and medium-sized birds.
+
+In dry picking it is essential that the feathers be plucked immediately
+after the bird is killed. If the bird has been properly stuck, they come
+out very easily. First remove the tail and large wing feathers and then
+the body feathers, leaving the small wing feathers and neck and upper
+breast feathers until last. Pull out all feathers a few at a time, but
+do not rub them off as this injures the skin and often lowers the grade.
+Dry picking can be learned best by personal instructions. The semiscald
+method of picking turkeys is used in some sections at commercial dressing
+plants, but nearly all home-dressed turkeys are dry-picked.[2]
+
+[2] Detailed information on killing, grading, and marketing turkeys is
+given in Farmers' Bulletins 1694. Dressing and Packing Turkeys, and
+1815, Grading Dressed Turkeys.
+
+Clean-picked turkeys are now preferred, but a single row of short fan
+feathers on the last joint of each wing may be left. Leave no feathers
+on any other part of the body. Remove all pinfeathers, especially from
+the breast, but do not attempt to dig out pinfeathers too short to be
+pulled. After picking, snap the blood from the bird's mouth with a quick
+motion and squeeze the vent to remove any droppings that may be there.
+The feet, if dirty, should be washed and dried. These methods make for
+clean carcasses, good grades, and good keeping quality. After picking
+and chilling the birds, cover the heads with head wraps made of heavy
+waxed paper, to prevent blood soaking through and smearing the carcasses.
+Whenever the skin is torn, sew it neatly with white thread.
+
+When birds have been killed with feed in their crops, remove the entire
+crop. Through a 2- or 3-inch slit in the neck, beginning where the neck
+joins the body, the crop can be completely loosened and withdrawn, the
+gullet being cut well below the crop. Then sew the opening with No. 36
+white thread. Turn in the edges of the skin so as to make a neat job that
+will not be noticeable when the bird is put on the market.
+
+According to data on Bronze turkeys, killing and picking after the birds
+had been starved overnight resulted in a loss of about 9 percent of
+weight for large birds and 10 percent for small birds. The turkeys were
+weighed both before and after they were killed and picked and again after
+they had cooled overnight. The larger birds had the lower percentages
+of loss in weight and therefore the higher dressing percentages. The
+weight loss of dressed turkeys while chilling overnight is very small,
+only about one-sixth of 1 percent. Therefore, practically all the loss
+in weight that occurs during picking and chilling results from the loss
+of blood and feathers. The weight loss of turkeys overnight just before
+slaughter when they received no feed was about 3 percent, on an average,
+making the total loss from their normal weight, due to withholding feed,
+picking, and chilling, about 13 percent. When dressed turkeys are drawn,
+with head and feet removed and giblets replaced, there is a further loss
+of about 15 percent of the dressed weight.
+
+[Illustration: Figure 23.--Single-layer box of 10 turkey hens.]
+
+
+
+
+COOLING
+
+Hanging the birds indoors by the legs for 24 hours or more, or laying
+them on their backs on a clean surface where the temperature of the air
+ranges from 30° to 36° F. will properly chill the carcasses. They should
+be thoroughly chilled but not frozen, since frozen birds sweat and,
+because of their rigid condition, cannot be packed without great waste
+of space. In mild weather it is often impossible to cool the carcasses
+properly without the use of refrigeration or ice water. Cooling in water
+spoils the appearance of dry-picked carcasses and should be done only as
+a last resort. A suitable thermometer is an indispensable part of the
+chilling equipment.
+
+
+PACKING
+
+Boxes and barrels are generally used for packing dressed turkeys.
+Packing in clean barrels, while easier and slightly cheaper, is not so
+satisfactory as box packing, although barrels are often more readily
+available.
+
+Boxes are greatly preferred by the trade and by organized pools. In box
+packing, the single-layer pack of 6 to 14 birds, depending on their size,
+is preferred. The boxes are usually large enough to hold from 10 to 12
+medium-sized birds (fig. 23).
+
+When barrels are used, a large size is necessary for large toms. Smaller
+barrels are suitable for hens and small toms. Line the barrel with white
+wrapping paper or common white parchment paper. Lay the birds with their
+backs against the sides of the barrel, and if it is necessary to pack
+larger birds in the same barrel, place them in the center. When the
+barrel is full, turn down the paper, take off the top hoop, place a piece
+of clean burlap over the top, and replace and renail the hoop over the
+burlap.
+
+Boxes, barrels, or any other containers used should be free from
+objectionable odor, as the turkey meat may absorb it.
+
+There is considerable risk for the producer who does not have access
+to proper refrigerating facilities in shipping dressed turkeys during
+mild weather. If the birds are to be sold in mild weather, it is safest
+to market them alive or else sell them dressed to local purchasers as
+losses from improper cooling of dressed turkeys and from exposure to
+warm weather during transit are likely to occur. When turkeys are to be
+shipped only a short distance it may be feasible to chill the dressed
+birds in ice water and then to pack them in barrels with cracked ice
+between layers and at each end of the barrel. A top layer of ice placed
+between two layers of burlap tacked securely over the top of the barrel
+is desirable. The internal temperature of the turkeys should be reduced
+to 34° F. before they are shipped.
+
+
+
+
+DRESSED-TURKEY GRADES
+
+
+Grading systems for dressed turkeys differ somewhat in different markets
+but, in general, are similar. Greatest uniformity is provided where the
+United States grades are used. The United States grading system is more
+comprehensive than other systems and is intended to satisfy the demands
+of the consumers more fully and to promote more uniform grading.
+
+The United States Government grading system was developed and is
+sponsored by the Bureau of Agricultural Economics, United States
+Department of Agriculture. Under this system as now used there are four
+grades: U. S. Special or U. S. grade AA; U. S. Prime or U. S. grade A; U.
+S. Choice or U. S. grade B; and U. S. Commercial or U. S. grade C. Each
+grade is subdivided into four classes according to the age and sex of the
+birds.
+
+These classes are: Young hen, young tom, old hen, and old tom. The
+quality specifications for individual birds apply to each class with
+due allowance for fleshing condition characteristic of its sex and
+age. Detailed descriptions are provided for each grade. For the U. S.
+Special grade it is required that turkeys have broad, full-fleshed
+breasts and that the carcasses be fully covered with fat. The birds
+must also have been well bled, carefully dry-picked or semiscalded,
+and must be free from bruises, skin tears, and broken joints. The
+breastbone must be straight or only slightly dented (not more than
+one-fourth inch in depth). For the U. 3. Prime grade it is required that
+birds be well fleshed, well fattened, and well bled, but they may have
+slight imperfections such as scattered pinfeathers, slight flesh or
+skin abrasions, and one disjointed but not broken wing or leg. Slightly
+curved and slightly dented breastbones, not to exceed one-half inch in
+depth, are permitted. To grade U. S. Choice, turkeys must have fairly
+well-fleshed breasts and carcasses fairly well covered with fat. These
+birds need be only fairly well bled and dressed and may have slight
+flesh or skin bruises, small skin tears, or larger sewn-up tears, and
+one broken leg or wing. Turkeys not meeting these grade requirements,
+including birds poorly fleshed, poorly bled, or slightly deformed, but
+suitable for food, make up the lowest or U. S. Commercial grade.
+
+Another system of grading in common use in buying dressed turkeys is to
+make only 2 or 3 grades, except that sometimes the birds within the top
+grades are divided into classes based on weight and sex. The no. 1 grade
+usually consists of young toms weighing 12 pounds or more and young and
+old hens weighing 8 pounds or more, dressed. For this grade the birds
+must be well finished and free from serious tears, bruises, and severely
+crooked breastbones. The crops must be empty and the carcasses reasonably
+free from pinfeathers and reasonably well bled. The no. 2 grade includes
+all old toms and such young toms, young hens, and old hens as are too
+light for the no. 1 grade. The no. 2 grade also includes turkeys with
+severely crooked breastbones, broken wings, bad blemishes, bad tears,
+bad abrasions, feed in crops, numerous pinfeathers, and birds that have
+been poorly bled or poorly fleshed. The no. 3 grade includes birds not
+good enough for the no. 2 grade but still fit for food. These are culls
+that never should have been marketed. The no. 3 grade is not always
+used, since turkeys of this kind are often rejected by the buyers. On
+some markets a medium grade of birds--between the no. 1 and the no. 2
+grades--is used.
+
+When graded and packed for market turkeys are further graded as to size,
+birds of similar weight being placed in the same container, which is
+labeled according to the grade.
+
+       *       *       *       *       *
+
+
+ORGANIZATION OF THE UNITED STATES DEPARTMENT OF AGRICULTURE WHEN THIS
+PUBLICATION WAS LAST PRINTED
+
+  _Secretary of Agriculture_             Henry A. Wallace.
+  _Undersecretary_                       M. L. Wilson.
+  _Assistant Secretary_                  Harry L. Brown.
+  Coordinator of Land Use Planning and   M. S. Eisenhower.
+   Director of Information.
+  _Director of Extension Work_           C. W. Warburton.
+  _Director of Finance_                  W. A. Jump.
+  _Director of Personnel_                Roy F. Hendrickson.
+  _Director of Research_                 James T. Jardine.
+  _Solicitor_                            Mastin G. White.
+  _Agricultural Adjustment               H. R. Tolley, _Administrator_.
+     Administration_
+  _Bureau of Agricultural Economics_     A. G. Black, _Chief_.
+  _Bureau of Agricultural Engineering_   S. H. McCrory, _Chief_.
+  _Bureau of Animal Industry_            John R. Mohler, _Chief_.
+  _Bureau of Biological Survey_          Ira N. Gabrielson, _Chief_.
+  _Bureau of Chemistry and Soils_        Henry G. Knight, _Chief_.
+  _Commodity Exchange Administration_    J. W. T. Duvel, _Chief_.
+  _Bureau of Dairy Industry_             O. E. Reed, _Chief_.
+  _Bureau of Entomology and Plant        Lee A. Strong, _Chief_.
+    Quarantine_
+  _Office of Experiment Stations_        James T. Jardine, _Chief_.
+  _Farm Security Administration_         W. W. Alexander, _Administrator_.
+  _Food and Drug Administration_         Walter G. Campbell, _Chief_.
+  _Forest Service_                       Ferdinand A. Silcox, _Chief_.
+  _Bureau of Home Economics_             Louise Stanley, _Chief_.
+  _Library_                              Claribel R. Barnett, _Librarian_.
+  _Bureau of Plant Industry_             E. C. Auchter, _Chief_.
+  _Bureau of Public Roads_               Thomas H. MacDonald, _Chief_.
+  _Soil Conservation Service_            H. H. Bennett, _Chief_.
+  _Weather Bureau_                       Francis W. Reichelderfer, _Chief_.
+
+
+U. S. GOVERNMENT PRINTING OFFICE: 1939
+
+For sale by the Superintendent of Documents, Washington, D. C.
+
+Price 5 cents
+
+
+       *       *       *       *       *
+
+
+Transcriber Note
+
+Illustrations were moved to avoid splitting paragraphs. Display of
+numbers was standardized in the tables to show leading zeros.
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of USDA Farmers' Bulletin No. 1409:
+Turkey Raising, by Stanley J. Marsden and Alfred R. Lee
+
+*** END OF THIS PROJECT GUTENBERG EBOOK USDA FARMERS' BULLETIN NO. 1409 ***
+
+***** This file should be named 59546-8.txt or 59546-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/9/5/4/59546/
+
+Produced by Tom Cosmas compiled from images made available
+by The Internet Archive.
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
